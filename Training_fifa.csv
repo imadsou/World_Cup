@@ -1,0 +1,87 @@
+Year,home_team,away_team,rank_dif,rating_dif,goal_dif,label,home_score,away_score
+2010.00,Uruguay,France,10,-0.54,4.00,0,0,0
+2010.00,Argentina,Nigeria,-42,5.69,12.00,1,1,0
+2010.00,Germany,Australia,-25,3.77,28.00,3,4,0
+2010.00,Spain,Switzerland,2,2.18,4.00,-1,0,1
+2010.00,Argentina,Korea Republic,-56,6.32,9.00,3,4,1
+2010.00,France,Mexico,-8,6.81,2.00,-2,0,2
+2010.00,Germany,Serbia,-34,-0.27,32.00,-1,0,1
+2010.00,Mexico,Uruguay,-2,-6.27,-6.00,-1,0,1
+2010.00,Nigeria,Korea Republic,-14,0.63,-3.00,0,2,2
+2010.00,Australia,Serbia,-9,-4.04,4.00,1,2,1
+2010.00,Denmark,Japan,-48,4.05,-3.00,-2,1,3
+2010.00,Portugal,Brazil,2,0.78,-9.00,0,0,0
+2010.00,Uruguay,Korea Republic,-44,4.72,6.00,1,2,1
+2010.00,Argentina,Mexico,-10,7.87,9.00,2,3,1
+2010.00,Germany,England,-12,7.27,29.00,3,4,1
+2010.00,Spain,Portugal,4,-5.87,1.00,1,1,0
+2010.00,Argentina,Germany,4,3.32,-16.00,-3,0,4
+2010.00,Germany,Spain,-7,1.81,22.00,-1,0,1
+2010.00,Uruguay,Germany,16,1.72,-19.00,-1,2,3
+2014.00,Brazil,Croatia,-16,1.18,14.00,2,3,1
+2014.00,Uruguay,Costa Rica,-8,6.27,10.00,-2,1,3
+2014.00,Germany,Portugal,-3,5.72,23.00,3,4,0
+2014.00,Iran,Nigeria,-11,-3.48,-5.00,0,0,0
+2014.00,Brazil,Mexico,-13,5.45,11.00,0,0,0
+2014.00,Russia,Korea Republic,5,0.96,-7.00,0,1,1
+2014.00,Uruguay,England,4,-0.45,10.00,1,2,1
+2014.00,Switzerland,France,-1,-2.64,-3.00,-3,2,5
+2014.00,Argentina,Iran,-31,10.23,17.00,1,1,0
+2014.00,Belgium,Russia,-63,10.49,4.00,1,1,0
+2014.00,Australia,Spain,18,-13.45,-6.00,-3,0,3
+2014.00,Croatia,Mexico,3,4.27,-3.00,-2,1,3
+2014.00,Costa Rica,England,12,-6.72,0.00,0,0,0
+2014.00,Japan,Colombia,44,-5.81,-6.00,-3,1,4
+2014.00,Nigeria,Argentina,42,-6.75,-12.00,-1,2,3
+2014.00,Korea Republic,Belgium,58,-11.45,3.00,-1,0,1
+2014.00,Colombia,Uruguay,-1,0.00,-3.00,2,2,0
+2014.00,France,Nigeria,-40,4.54,5.00,2,2,0
+2014.00,Argentina,Switzerland,-1,4.84,10.00,1,1,0
+2014.00,Brazil,Colombia,-14,3.45,8.00,1,2,1
+2014.00,France,Germany,6,-6.53,-23.00,-1,0,1
+2014.00,Argentina,Belgium,2,-2.96,12.00,1,1,0
+2014.00,Brazil,Germany,1,-2.81,-14.00,-3,1,7
+2014.00,Germany,Argentina,-4,4.33,16.00,1,1,0
+2010.00,France,Uruguay,-10,0.54,-4.00,0,0,0
+2010.00,Nigeria,Argentina,42,-5.69,-12.00,-1,0,1
+2010.00,Australia,Germany,25,-3.77,-28.00,-3,0,4
+2010.00,Switzerland,Spain,-2,-2.18,-4.00,1,1,0
+2010.00,Korea Republic,Argentina,56,-6.32,-9.00,-3,1,4
+2010.00,Mexico,France,8,-6.81,-2.00,2,2,0
+2010.00,Serbia,Germany,34,0.27,-32.00,1,1,0
+2010.00,Uruguay,Mexico,2,6.27,6.00,1,1,0
+2010.00,Korea Republic,Nigeria,14,-0.63,3.00,0,2,2
+2010.00,Serbia,Australia,9,4.04,-4.00,-1,1,2
+2010.00,Japan,Denmark,48,-4.05,3.00,2,3,1
+2010.00,Brazil,Portugal,-2,-0.78,9.00,0,0,0
+2010.00,Korea Republic,Uruguay,44,-4.72,-6.00,-1,1,2
+2010.00,Mexico,Argentina,10,-7.87,-9.00,-2,1,3
+2010.00,England,Germany,12,-7.27,-29.00,-3,1,4
+2010.00,Portugal,Spain,-4,5.87,-1.00,-1,0,1
+2010.00,Germany,Argentina,-4,-3.32,16.00,3,4,0
+2010.00,Spain,Germany,7,-1.81,-22.00,1,1,0
+2010.00,Germany,Uruguay,-16,-1.72,19.00,1,3,2
+2014.00,Croatia,Brazil,16,-1.18,-14.00,-2,1,3
+2014.00,Costa Rica,Uruguay,8,-6.27,-10.00,2,3,1
+2014.00,Portugal,Germany,3,-5.72,-23.00,-3,0,4
+2014.00,Nigeria,Iran,11,3.48,5.00,0,0,0
+2014.00,Mexico,Brazil,13,-5.45,-11.00,0,0,0
+2014.00,Korea Republic,Russia,-5,-0.96,7.00,0,1,1
+2014.00,England,Uruguay,-4,0.45,-10.00,-1,1,2
+2014.00,France,Switzerland,1,2.64,3.00,3,5,2
+2014.00,Iran,Argentina,31,-10.23,-17.00,-1,0,1
+2014.00,Russia,Belgium,63,-10.49,-4.00,-1,0,1
+2014.00,Spain,Australia,-18,13.45,6.00,3,3,0
+2014.00,Mexico,Croatia,-3,-4.27,3.00,2,3,1
+2014.00,England,Costa Rica,-12,6.72,0.00,0,0,0
+2014.00,Colombia,Japan,-44,5.81,6.00,3,4,1
+2014.00,Argentina,Nigeria,-42,6.75,12.00,1,3,2
+2014.00,Belgium,Korea Republic,-58,11.45,-3.00,1,1,0
+2014.00,Uruguay,Colombia,1,0.00,3.00,-2,0,2
+2014.00,Nigeria,France,40,-4.54,-5.00,-2,0,2
+2014.00,Switzerland,Argentina,1,-4.84,-10.00,-1,0,1
+2014.00,Colombia,Brazil,14,-3.45,-8.00,-1,1,2
+2014.00,Germany,France,-6,6.53,23.00,1,1,0
+2014.00,Belgium,Argentina,-2,2.96,-12.00,-1,0,1
+2014.00,Germany,Brazil,-1,2.81,14.00,3,7,1
+2014.00,Argentina,Germany,4,-4.33,-16.00,-1,0,1
