@@ -1,87 +1,2085 @@
 Year,home_team,away_team,rank_dif,rating_dif,goal_dif,label,home_score,away_score
-2010.00,Uruguay,France,10,-0.54,4.00,0,0,0
-2010.00,Argentina,Nigeria,-42,5.69,12.00,1,1,0
-2010.00,Germany,Australia,-25,3.77,28.00,3,4,0
-2010.00,Spain,Switzerland,2,2.18,4.00,-1,0,1
-2010.00,Argentina,Korea Republic,-56,6.32,9.00,3,4,1
+2008.00,Tunisia,Zambia,-64,-1.68,10.00,-1,1,2
+2008.00,Tunisia,Zambia,-64,-1.68,10.00,1,1,0
+2008.00,Egypt,Mali,-21,0.79,21.00,1,1,0
+2008.00,Morocco,Zambia,-36,3.55,-9.00,2,2,0
+2008.00,Costa Rica,Sweden,2,3.81,0.00,-1,0,1
+2008.00,Benin,Senegal,56,4.17,-30.00,-1,1,2
+2008.00,Japan,Chile,51,-4.00,15.00,0,0,0
+2008.00,Iran,Costa Rica,11,5.85,21.00,0,0,0
+2008.00,Korea Republic,Chile,52,-4.27,17.00,-1,0,1
+2008.00,Austria,Germany,25,-7.45,-64.00,-3,0,3
+2008.00,Bolivia,Peru,46,2.07,-5.00,1,2,1
+2008.00,Croatia,Netherlands,-1,5.28,-32.00,-3,0,3
+2008.00,Cyprus,Ukraine,56,-0.63,-18.00,0,1,1
+2008.00,Czech Republic,Poland,35,-2.72,-14.00,-2,0,2
+2008.00,England,Switzerland,7,-3.27,4.00,1,2,1
+2008.00,Greece,Finland,-18,3.36,36.00,1,2,1
+2008.00,Honduras,Paraguay,26,0.90,16.00,2,2,0
+2008.00,Hungary,Slovakia,20,4.90,0.00,0,1,1
+2008.00,Israel,Romania,67,5.09,-9.00,1,1,0
+2008.00,Italy,Portugal,16,-0.78,0.00,2,3,1
+2008.00,Jamaica,Costa Rica,27,-3.27,-11.00,0,1,1
+2008.00,Northern Ireland,Bulgaria,-26,-8.81,1.00,-1,0,1
+2008.00,Slovenia,Denmark,53,1.67,-10.00,-1,1,2
+2008.00,Spain,France,1,-4.09,10.00,1,1,0
+2008.00,Turkey,Sweden,14,5.36,-13.00,0,0,0
+2008.00,Uruguay,Colombia,1,-1.72,11.00,0,2,2
+2008.00,Wales,Norway,-27,-0.45,16.00,3,3,0
+2008.00,Poland,Estonia,-83,-2.67,28.00,2,2,0
+2008.00,Iceland,Faroe Islands,-72,7.51,39.00,3,3,0
+2008.00,Venezuela,El Salvador,-46,5.24,-7.00,1,1,0
+2008.00,Belarus,Turkey,42,0.00,-16.00,0,2,2
+2008.00,Brazil,Sweden,-21,7.81,-2.00,1,1,0
+2008.00,Bulgaria,Finland,-9,-1.18,8.00,1,2,1
+2008.00,Denmark,Czech Republic,-33,8.59,10.00,0,1,1
+2008.00,Egypt,Argentina,41,-3.71,-9.00,-2,0,2
+2008.00,Estonia,Canada,13,-0.59,-6.00,2,2,0
+2008.00,France,England,-6,9.54,7.00,1,1,0
+2008.00,Ghana,Mexico,36,4.00,1.00,-1,1,2
+2008.00,Honduras,Colombia,43,-1.90,-9.00,1,2,1
+2008.00,Hungary,Slovenia,-16,0.09,5.00,-1,0,1
+2008.00,Israel,Chile,90,-0.36,-33.00,1,1,0
+2008.00,Luxembourg,Wales,62,3.36,-21.00,-2,0,2
+2008.00,Montenegro,Norway,-5,9.90,13.00,2,3,1
+2008.00,Peru,Costa Rica,-14,1.18,-7.00,2,3,1
+2008.00,Portugal,Greece,-40,-0.30,7.00,-1,1,2
+2008.00,Romania,Russia,-34,-1.36,4.00,3,3,0
+2008.00,Scotland,Croatia,16,-9.09,-26.00,0,1,1
+2008.00,Slovakia,Iceland,7,-1.72,-8.00,-1,1,2
+2008.00,South Africa,Paraguay,39,-4.27,23.00,3,3,0
+2008.00,Spain,Italy,-12,-5.09,11.00,1,1,0
+2008.00,Ukraine,Serbia,-5,1.09,2.00,2,2,0
+2008.00,Venezuela,Bolivia,-18,-1.21,-3.00,-1,0,1
+2008.00,Syria,Oman,-11,-8.16,-17.00,1,2,1
+2008.00,Syria,Iraq,-15,2.58,-18.00,1,2,1
+2008.00,Greece,Cyprus,-42,3.63,39.00,2,2,0
+2008.00,Turkey,Slovakia,8,2.63,-3.00,1,1,0
+2008.00,Australia,Ghana,-11,-3.22,29.00,1,1,0
+2008.00,Hungary,Greece,5,-1.27,-17.00,1,3,2
+2008.00,Netherlands,Ukraine,-11,-2.46,46.00,3,3,0
+2008.00,Switzerland,Slovakia,-23,-2.18,14.00,2,2,0
+2008.00,Iran,Zambia,-42,6.25,23.00,1,3,2
+2008.00,Turkey,Uruguay,20,-0.90,-33.00,-1,2,3
+2008.00,Sweden,Slovenia,-42,-7.54,15.00,1,1,0
+2008.00,Albania,Poland,46,6.00,-26.00,-1,0,1
+2008.00,Austria,Nigeria,-21,-5.09,-19.00,0,1,1
+2008.00,Estonia,Georgia,-2,-2.50,3.00,0,1,1
+2008.00,France,Ecuador,-56,0.81,15.00,2,2,0
+2008.00,Germany,Belarus,-78,-0.81,77.00,0,2,2
+2008.00,Iceland,Wales,1,9.54,7.00,-1,0,1
+2008.00,Norway,Uruguay,31,-10.90,-45.00,0,2,2
+2008.00,Russia,Serbia,31,-3.09,0.00,1,2,1
+2008.00,Finland,Turkey,25,0.18,-16.00,-2,0,2
+2008.00,Netherlands,Denmark,7,-2.43,37.00,0,1,1
+2008.00,Czech Republic,Scotland,11,-2.36,11.00,2,3,1
+2008.00,Italy,Belgium,17,-1.45,7.00,2,3,1
+2008.00,Venezuela,Honduras,-20,-0.23,-15.00,0,1,1
+2008.00,Brazil,Canada,-78,4.54,21.00,1,3,2
+2008.00,France,Paraguay,-26,1.63,31.00,0,0,0
+2008.00,Germany,Serbia,-34,-0.27,64.00,1,2,1
+2008.00,Hungary,Croatia,31,-1.09,-10.00,0,1,1
+2008.00,Portugal,Georgia,-91,3.42,46.00,2,2,0
+2008.00,Spain,Peru,-3,-2.27,32.00,1,2,1
+2008.00,Armenia,Greece,54,-5.30,-31.00,0,0,0
+2008.00,Netherlands,Wales,-2,8.53,41.00,2,2,0
+2008.00,Poland,Denmark,-2,-5.87,4.00,0,1,1
+2008.00,Sweden,Ukraine,-7,-5.90,14.00,-1,0,1
+2008.00,Finland,Belarus,-17,0.18,0.00,0,1,1
+2008.00,France,Colombia,-9,-1.18,6.00,1,1,0
+2008.00,Panama,Canada,-25,3.00,12.00,0,2,2
+2008.00,Brazil,Venezuela,-37,1.96,13.00,-2,0,2
+2008.00,Chile,Panama,-46,-0.45,23.00,0,0,0
+2008.00,El Salvador,Jamaica,33,0.06,3.00,0,0,0
+2008.00,Australia,South Africa,-32,-0.13,36.00,0,2,2
+2008.00,Gabon,Mali,23,0.63,-11.00,1,1,0
+2008.00,Belarus,Argentina,74,-2.50,-47.00,0,0,0
+2008.00,Bolivia,Panama,2,0.79,-1.00,1,1,0
+2008.00,Colombia,Ecuador,-47,2.00,9.00,-1,0,1
+2008.00,Denmark,Spain,4,3.14,-30.00,-3,0,3
+2008.00,England,Czech Republic,-32,0.00,23.00,0,2,2
+2008.00,Finland,Israel,-37,0.09,-8.00,2,2,0
+2008.00,Germany,Belgium,-2,-4.72,41.00,2,2,0
+2008.00,Hungary,Montenegro,6,2.36,2.00,0,3,3
+2008.00,Italy,Austria,-6,10.72,30.00,0,2,2
+2008.00,Japan,Uruguay,43,-4.45,7.00,-2,1,3
+2008.00,Morocco,Benin,-42,2.07,23.00,2,3,1
+2008.00,Oman,Uzbekistan,-1,8.00,-13.00,2,2,0
+2008.00,Russia,Netherlands,47,-1.71,-48.00,0,1,1
+2008.00,Scotland,Northern Ireland,7,4.09,-6.00,0,0,0
+2008.00,Slovakia,Greece,-15,-6.18,-17.00,-2,0,2
+2008.00,Slovenia,Croatia,47,-1.18,-15.00,-1,2,3
+2008.00,Sweden,France,16,-6.81,-15.00,-1,2,3
+2008.00,Turkey,Chile,28,-0.45,-25.00,1,1,0
+2008.00,Ukraine,Poland,20,5.90,-13.00,1,1,0
+2008.00,Wales,Georgia,-74,-10.27,23.00,-1,1,2
+2008.00,Netherlands,Australia,-21,2.66,-11.00,-1,1,2
+2008.00,Oman,Morocco,45,3.80,9.00,0,0,0
+2008.00,South Africa,Guinea,2,-1.27,28.00,-1,0,1
+2008.00,Mexico,Chile,6,-5.81,1.00,-1,0,1
+2008.00,Korea Republic,Uzbekistan,-27,-1.22,18.00,3,3,0
+2008.00,France,Tunisia,-7,5.09,7.00,2,3,1
+2008.00,South Africa,Ghana,21,-3.09,-7.00,1,2,1
+2008.00,Bolivia,El Salvador,-28,6.46,-4.00,-2,0,2
+2008.00,Mexico,Ecuador,-48,-6.00,13.00,1,2,1
+2008.00,Japan,Syria,-16,-0.78,46.00,2,3,1
+2008.00,Algeria,Mali,-3,-3.00,13.00,0,1,1
+2008.00,Gabon,Guinea,20,1.81,-2.00,0,3,3
+2008.00,Colombia,Nigeria,-31,5.81,6.00,1,1,0
+2008.00,Cyprus,Belarus,7,-0.09,-3.00,1,2,1
+2008.00,Denmark,Wales,-9,10.96,4.00,-1,0,1
+2008.00,France,Uruguay,-10,0.54,-5.00,0,0,0
+2008.00,Germany,England,-12,7.27,40.00,-1,1,2
+2008.00,Ghana,Tunisia,37,2.27,6.00,0,0,0
+2008.00,Greece,Italy,24,1.09,-7.00,0,1,1
+2008.00,Luxembourg,Belgium,80,-11.00,-37.00,0,1,1
+2008.00,Morocco,Zambia,-36,3.55,-9.00,3,3,0
+2008.00,Netherlands,Sweden,-4,3.43,32.00,2,3,1
+2008.00,Northern Ireland,Hungary,-22,-12.09,-10.00,-2,0,2
+2008.00,Oman,Paraguay,54,5.59,14.00,-1,0,1
+2008.00,Romania,Georgia,-63,-4.81,20.00,1,2,1
+2008.00,Scotland,Argentina,29,-8.23,-44.00,-1,0,1
+2008.00,South Africa,Cameroon,22,-5.16,13.00,1,3,2
+2008.00,Spain,Chile,-1,-3.09,13.00,3,3,0
+2008.00,Switzerland,Finland,-56,-4.99,33.00,1,1,0
+2008.00,Ukraine,Norway,-18,10.54,11.00,1,1,0
+2008.00,Serbia,Poland,25,4.81,-15.00,-1,0,1
+2008.00,Iran,Ecuador,-27,3.67,21.00,-1,0,1
+2008.00,Oman,Ecuador,24,4.77,-2.00,2,2,0
+2010.00,Egypt,Nigeria,-1,1.97,6.00,2,3,1
+2010.00,Cameroon,Gabon,-40,2.07,17.00,-1,0,1
+2010.00,Zambia,Tunisia,64,1.68,-10.00,0,1,1
+2010.00,Mali,Algeria,3,3.00,-13.00,-1,0,1
+2010.00,Nigeria,Benin,-37,-2.71,37.00,1,1,0
+2010.00,Cameroon,Zambia,-28,2.65,-4.00,1,3,2
+2010.00,Gabon,Tunisia,76,2.27,-31.00,0,0,0
+2010.00,Burkina Faso,Ghana,3,-1.09,-20.00,-1,0,1
+2010.00,Egypt,Benin,-38,-0.73,43.00,2,2,0
+2010.00,Cameroon,Tunisia,36,4.34,-14.00,0,2,2
+2010.00,Gabon,Zambia,12,0.58,-21.00,-1,1,2
+2010.00,Egypt,Cameroon,-4,-1.91,15.00,2,3,1
+2010.00,Zambia,Nigeria,31,1.23,-5.00,0,0,0
+2010.00,Algeria,Egypt,18,-3.79,-8.00,-3,0,4
+2010.00,Ghana,Nigeria,4,1.81,11.00,1,1,0
+2010.00,Nigeria,Algeria,-17,1.81,2.00,1,1,0
+2010.00,Ghana,Egypt,5,-0.16,5.00,-1,0,1
+2010.00,South Africa,Mexico,57,0.90,-6.00,0,1,1
+2010.00,Uruguay,France,10,-0.54,5.00,0,0,0
+2010.00,Argentina,Nigeria,-42,5.69,15.00,1,1,0
+2010.00,Korea Republic,Greece,17,-7.36,22.00,2,2,0
+2010.00,Algeria,Slovenia,-1,-7.18,16.00,-1,0,1
+2010.00,Germany,Australia,-39,3.77,5.00,3,4,0
+2010.00,Serbia,Ghana,-16,0.81,-30.00,-1,0,1
+2010.00,Italy,Paraguay,-13,2.63,30.00,0,1,1
+2010.00,Japan,Cameroon,10,-4.25,33.00,1,1,0
+2010.00,Netherlands,Denmark,7,-2.43,37.00,2,2,0
+2010.00,Honduras,Chile,50,0.27,-12.00,-1,0,1
+2010.00,South Africa,Uruguay,55,-5.36,-13.00,-3,0,3
+2010.00,Spain,Switzerland,2,2.18,21.00,-1,0,1
+2010.00,Argentina,Korea Republic,-56,6.32,-11.00,3,4,1
 2010.00,France,Mexico,-8,6.81,2.00,-2,0,2
-2010.00,Germany,Serbia,-34,-0.27,32.00,-1,0,1
-2010.00,Mexico,Uruguay,-2,-6.27,-6.00,-1,0,1
-2010.00,Nigeria,Korea Republic,-14,0.63,-3.00,0,2,2
-2010.00,Australia,Serbia,-9,-4.04,4.00,1,2,1
-2010.00,Denmark,Japan,-48,4.05,-3.00,-2,1,3
-2010.00,Portugal,Brazil,2,0.78,-9.00,0,0,0
-2010.00,Uruguay,Korea Republic,-44,4.72,6.00,1,2,1
-2010.00,Argentina,Mexico,-10,7.87,9.00,2,3,1
-2010.00,Germany,England,-12,7.27,29.00,3,4,1
-2010.00,Spain,Portugal,4,-5.87,1.00,1,1,0
-2010.00,Argentina,Germany,4,3.32,-16.00,-3,0,4
-2010.00,Germany,Spain,-7,1.81,22.00,-1,0,1
-2010.00,Uruguay,Germany,16,1.72,-19.00,-1,2,3
-2014.00,Brazil,Croatia,-16,1.18,14.00,2,3,1
-2014.00,Uruguay,Costa Rica,-8,6.27,10.00,-2,1,3
-2014.00,Germany,Portugal,-3,5.72,23.00,3,4,0
-2014.00,Iran,Nigeria,-11,-3.48,-5.00,0,0,0
-2014.00,Brazil,Mexico,-13,5.45,11.00,0,0,0
-2014.00,Russia,Korea Republic,5,0.96,-7.00,0,1,1
-2014.00,Uruguay,England,4,-0.45,10.00,1,2,1
-2014.00,Switzerland,France,-1,-2.64,-3.00,-3,2,5
-2014.00,Argentina,Iran,-31,10.23,17.00,1,1,0
-2014.00,Belgium,Russia,-63,10.49,4.00,1,1,0
-2014.00,Australia,Spain,18,-13.45,-6.00,-3,0,3
-2014.00,Croatia,Mexico,3,4.27,-3.00,-2,1,3
-2014.00,Costa Rica,England,12,-6.72,0.00,0,0,0
-2014.00,Japan,Colombia,44,-5.81,-6.00,-3,1,4
-2014.00,Nigeria,Argentina,42,-6.75,-12.00,-1,2,3
-2014.00,Korea Republic,Belgium,58,-11.45,3.00,-1,0,1
-2014.00,Colombia,Uruguay,-1,0.00,-3.00,2,2,0
-2014.00,France,Nigeria,-40,4.54,5.00,2,2,0
-2014.00,Argentina,Switzerland,-1,4.84,10.00,1,1,0
-2014.00,Brazil,Colombia,-14,3.45,8.00,1,2,1
-2014.00,France,Germany,6,-6.53,-23.00,-1,0,1
-2014.00,Argentina,Belgium,2,-2.96,12.00,1,1,0
-2014.00,Brazil,Germany,1,-2.81,-14.00,-3,1,7
-2014.00,Germany,Argentina,-4,4.33,16.00,1,1,0
-2010.00,France,Uruguay,-10,0.54,-4.00,0,0,0
-2010.00,Nigeria,Argentina,42,-5.69,-12.00,-1,0,1
-2010.00,Australia,Germany,25,-3.77,-28.00,-3,0,4
-2010.00,Switzerland,Spain,-2,-2.18,-4.00,1,1,0
-2010.00,Korea Republic,Argentina,56,-6.32,-9.00,-3,1,4
+2010.00,Greece,Nigeria,-3,6.72,4.00,1,2,1
+2010.00,England,Algeria,-51,-3.09,7.00,0,0,0
+2010.00,Germany,Serbia,-34,-0.27,64.00,-1,0,1
+2010.00,Cameroon,Denmark,38,0.20,-1.00,-1,1,2
+2010.00,Ghana,Australia,11,3.22,-29.00,0,1,1
+2010.00,Netherlands,Japan,-41,1.62,5.00,1,1,0
+2010.00,Slovakia,Paraguay,-4,-2.45,6.00,-2,0,2
+2010.00,Chile,Switzerland,3,5.27,8.00,1,1,0
+2010.00,Spain,Honduras,-51,-3.36,25.00,2,2,0
+2010.00,Greece,Argentina,39,1.03,-11.00,-2,0,2
+2010.00,Mexico,Uruguay,-2,-6.27,-7.00,-1,0,1
+2010.00,Nigeria,Korea Republic,-14,0.63,-26.00,0,2,2
+2010.00,South Africa,France,65,-5.90,-8.00,1,2,1
+2010.00,Australia,Serbia,5,-4.04,59.00,1,2,1
+2010.00,Ghana,Germany,50,-0.54,-34.00,-1,0,1
+2010.00,Slovenia,England,52,10.27,-23.00,-1,0,1
+2010.00,Cameroon,Netherlands,31,2.63,-38.00,-1,1,2
+2010.00,Denmark,Japan,-48,4.05,-32.00,-2,1,3
+2010.00,Slovakia,Italy,9,-5.09,-24.00,1,3,2
+2010.00,Chile,Spain,1,3.09,-13.00,-1,1,2
+2010.00,Portugal,Brazil,2,0.78,16.00,0,0,0
+2010.00,Switzerland,Honduras,-53,-5.54,4.00,0,0,0
+2010.00,Uruguay,Korea Republic,-44,4.72,-9.00,1,2,1
+2010.00,Argentina,Mexico,-10,7.87,5.00,2,3,1
+2010.00,Germany,England,-12,7.27,40.00,3,4,1
+2010.00,Brazil,Chile,-7,2.00,-14.00,3,3,0
+2010.00,Netherlands,Slovakia,-10,0.71,42.00,1,2,1
+2010.00,Paraguay,Japan,-27,3.36,-43.00,0,0,0
+2010.00,Spain,Portugal,4,-5.87,11.00,1,1,0
+2010.00,Netherlands,Brazil,17,-4.37,34.00,1,2,1
+2010.00,Uruguay,Ghana,-34,2.27,6.00,0,1,1
+2010.00,Argentina,Germany,4,3.32,-30.00,-3,0,4
+2010.00,Paraguay,Spain,25,2.45,-41.00,-1,0,1
+2010.00,Uruguay,Netherlands,-2,2.83,-12.00,-1,2,3
+2010.00,Germany,Spain,-7,1.81,23.00,-1,0,1
+2010.00,Uruguay,Germany,16,1.72,-28.00,-1,2,3
+2010.00,Netherlands,Spain,11,0.71,7.00,-1,0,1
+2011.00,Iraq,Iran,55,-9.65,-22.00,-1,1,2
+2011.00,Syria,Japan,16,0.78,-46.00,-1,1,2
+2011.00,Australia,Korea Republic,-21,-0.77,14.00,0,1,1
+2011.00,Australia,Iraq,-51,0.75,44.00,1,1,0
+2011.00,Iran,Korea Republic,-25,8.12,-8.00,-1,0,1
+2011.00,Japan,Korea Republic,-1,0.27,-2.00,0,2,2
+2011.00,Uzbekistan,Korea Republic,27,1.22,-18.00,-1,2,3
+2011.00,Australia,Japan,-20,-1.04,16.00,-1,0,1
+2011.00,Uzbekistan,Japan,28,0.95,-16.00,0,1,1
+2011.00,Argentina,Chile,-4,2.05,6.00,3,4,1
+2011.00,Ecuador,Venezuela,24,0.14,15.00,2,2,0
+2011.00,Peru,Paraguay,-22,-0.18,9.00,2,2,0
+2011.00,Uruguay,Bolivia,-40,-0.79,32.00,2,4,2
+2011.00,Australia,Oman,-47,-10.00,45.00,3,3,0
+2011.00,Bolivia,Colombia,41,-0.92,-21.00,-1,1,2
+2011.00,Chile,Peru,-2,0.81,19.00,2,4,2
+2011.00,Paraguay,Uruguay,16,-1.09,-36.00,0,1,1
+2011.00,Venezuela,Argentina,34,-2.01,-33.00,1,1,0
+2011.00,Argentina,Bolivia,-52,0.79,30.00,0,1,1
+2011.00,Colombia,Venezuela,-23,2.14,24.00,0,1,1
+2011.00,Oman,Australia,47,10.00,-45.00,1,1,0
+2011.00,Paraguay,Ecuador,-30,-0.81,-16.00,1,2,1
+2011.00,Uruguay,Chile,8,0.45,8.00,3,4,0
+2011.00,Chile,Paraguay,-24,0.63,28.00,2,2,0
+2011.00,Colombia,Argentina,11,0.12,-9.00,-1,1,2
+2011.00,Ecuador,Peru,52,1.00,7.00,2,2,0
+2011.00,Lebanon,Korea Republic,21,-2.77,-52.00,1,2,1
+2011.00,Venezuela,Bolivia,-18,-1.21,-3.00,1,1,0
+2012.00,Senegal,Zambia,-50,9.10,-2.00,-1,1,2
+2012.00,Morocco,Tunisia,28,4.18,-19.00,-1,1,2
+2012.00,Mali,Guinea,-3,-1.00,9.00,1,1,0
+2012.00,Libya,Zambia,22,-1.16,-23.00,0,2,2
+2012.00,Gabon,Morocco,48,-6.63,-12.00,1,3,2
+2012.00,Ghana,Mali,-16,4.72,26.00,2,2,0
+2012.00,Libya,Senegal,72,-10.27,-21.00,1,2,1
+2012.00,Gabon,Tunisia,76,-2.45,-31.00,1,1,0
+2012.00,Ghana,Guinea,-19,3.72,35.00,0,1,1
+2012.00,Gabon,Mali,23,-1.09,-11.00,0,1,1
+2012.00,Ghana,Tunisia,37,3.36,6.00,1,2,1
+2012.00,Zambia,Ghana,27,-8.92,-16.00,1,1,0
+2012.00,Ghana,Mali,-16,4.72,26.00,-2,0,2
+2012.00,Australia,Saudi Arabia,-28,3.09,38.00,2,4,2
+2012.00,Japan,Uzbekistan,-28,0.15,16.00,-1,0,1
+2012.00,Argentina,Ecuador,-58,8.03,18.00,3,4,0
+2012.00,Bolivia,Chile,48,-11.90,-24.00,-2,0,2
+2012.00,Burkina Faso,Congo,-35,5.45,18.00,-3,0,3
+2012.00,Uruguay,Venezuela,-22,5.00,35.00,0,1,1
+2012.00,Benin,Mali,17,-2.54,-22.00,1,1,0
+2012.00,Japan,Oman,-27,2.90,29.00,3,3,0
+2012.00,Peru,Colombia,-5,-5.90,-16.00,-1,0,1
+2012.00,Uzbekistan,Iran,52,2.32,-10.00,-1,0,1
+2012.00,Costa Rica,El Salvador,-60,17.95,8.00,0,2,2
+2012.00,Honduras,Panama,4,0.18,11.00,-2,0,2
+2012.00,Lebanon,Uzbekistan,-6,-12.55,-34.00,0,1,1
+2012.00,Oman,Australia,47,-1.90,-45.00,0,0,0
+2012.00,Poland,Greece,-34,0.72,-8.00,0,1,1
+2012.00,Russia,Czech Republic,21,0.50,-1.00,3,4,1
+2012.00,Bolivia,Paraguay,24,-5.90,4.00,2,3,1
+2012.00,Gabon,Burkina Faso,36,-1.72,-17.00,1,1,0
+2012.00,Germany,Portugal,-3,5.72,34.00,1,1,0
+2012.00,Netherlands,Denmark,7,0.54,37.00,-1,0,1
+2012.00,Uganda,Senegal,46,-9.60,-30.00,0,1,1
+2012.00,Venezuela,Chile,30,-3.63,-27.00,-2,0,2
+2012.00,Zambia,Ghana,27,-8.92,-16.00,1,1,0
+2012.00,Ecuador,Colombia,47,-6.09,-9.00,1,1,0
+2012.00,Guinea,Egypt,24,-1.63,-30.00,-1,2,3
+2012.00,Libya,Cameroon,50,-11.36,-19.00,1,2,1
+2012.00,Mali,Algeria,3,-5.63,-13.00,1,2,1
+2012.00,Spain,Italy,-12,5.54,11.00,0,1,1
+2012.00,Uruguay,Peru,6,5.90,27.00,2,4,2
+2012.00,France,England,-6,-0.72,7.00,0,1,1
+2012.00,Ukraine,Sweden,7,-1.36,-14.00,1,2,1
+2012.00,Australia,Japan,-20,-1.00,16.00,0,1,1
+2012.00,Canada,Honduras,21,-0.54,-23.00,0,0,0
+2012.00,El Salvador,Mexico,70,-22.22,-21.00,-1,1,2
+2012.00,Greece,Czech Republic,-1,2.45,22.00,-1,1,2
+2012.00,Iraq,Oman,4,-7.00,1.00,0,1,1
+2012.00,Korea Republic,Lebanon,-21,11.98,52.00,3,3,0
+2012.00,Poland,Russia,-56,2.67,15.00,0,1,1
+2012.00,Denmark,Portugal,8,-3.54,-19.00,-1,2,3
+2012.00,Netherlands,Germany,18,-8.72,-16.00,-1,1,2
+2012.00,Italy,Croatia,2,-1.18,14.00,0,1,1
+2012.00,Sweden,England,10,-3.72,-8.00,-1,2,3
+2012.00,Ukraine,France,23,-4.37,-29.00,-2,0,2
+2012.00,Greece,Russia,-22,1.94,23.00,1,1,0
+2012.00,Poland,Czech Republic,-35,3.18,14.00,-1,0,1
+2012.00,Denmark,Germany,11,-9.27,-53.00,-1,1,2
+2012.00,Portugal,Netherlands,-15,3.00,-18.00,1,2,1
+2012.00,Croatia,Spain,10,-4.36,-25.00,-1,0,1
+2012.00,Sweden,France,16,-3.00,-15.00,2,2,0
+2012.00,Ukraine,England,17,-5.09,-22.00,-1,0,1
+2012.00,Czech Republic,Portugal,41,-6.63,-29.00,-1,0,1
+2012.00,Germany,Greece,-43,9.90,41.00,2,4,2
+2012.00,Spain,France,1,6.90,10.00,2,2,0
+2012.00,England,Italy,-7,-0.63,-6.00,0,0,0
+2012.00,Portugal,Spain,-4,-6.09,-11.00,0,0,0
+2012.00,Germany,Italy,-19,5.18,34.00,-1,1,2
+2012.00,Spain,Italy,-12,5.54,11.00,3,4,0
+2012.00,Albania,Cyprus,-30,1.79,5.00,2,3,1
+2012.00,Argentina,Paraguay,-28,9.30,34.00,2,3,1
+2012.00,Bulgaria,Italy,33,-10.72,-35.00,0,2,2
+2012.00,Canada,Panama,25,-0.36,-12.00,1,1,0
+2012.00,Colombia,Uruguay,-1,0.00,-11.00,3,4,0
+2012.00,Costa Rica,Mexico,10,-4.27,-13.00,-2,0,2
+2012.00,Ecuador,Bolivia,6,7.18,12.00,1,1,0
+2012.00,Estonia,Romania,61,-7.36,-17.00,-2,0,2
+2012.00,Finland,France,55,-5.91,-44.00,-1,0,1
+2012.00,Georgia,Belarus,16,2.95,-3.00,1,1,0
+2012.00,Germany,Faroe Islands,-93,25.40,89.00,3,3,0
+2012.00,Iceland,Norway,-26,0.72,23.00,2,2,0
+2012.00,Luxembourg,Portugal,79,-15.07,-44.00,-1,1,2
+2012.00,Montenegro,Poland,33,-5.09,-11.00,0,2,2
+2012.00,Netherlands,Turkey,-18,1.09,45.00,2,2,0
+2012.00,Peru,Venezuela,-28,-0.90,8.00,1,2,1
+2012.00,Russia,Northern Ireland,39,3.68,4.00,2,2,0
+2012.00,Slovenia,Switzerland,59,1.00,-19.00,-2,0,2
+2012.00,Wales,Belgium,18,-8.63,-16.00,-2,0,2
+2012.00,Denmark,Czech Republic,-33,3.09,10.00,0,0,0
+2012.00,Scotland,Serbia,-1,-6.36,-10.00,0,0,0
+2012.00,Austria,Germany,25,-9.54,-64.00,-1,1,2
+2012.00,Belgium,Croatia,-15,2.63,7.00,0,1,1
+2012.00,Bulgaria,Armenia,-45,0.09,3.00,1,1,0
+2012.00,Chile,Colombia,-7,-1.36,3.00,-2,1,3
+2012.00,Cyprus,Iceland,64,-5.84,-30.00,1,1,0
+2012.00,England,Ukraine,-17,5.09,22.00,0,1,1
+2012.00,France,Belarus,-72,11.91,44.00,2,3,1
+2012.00,Georgia,Spain,87,-15.86,-57.00,-1,0,1
+2012.00,Hungary,Netherlands,30,-5.37,-42.00,-3,1,4
+2012.00,Israel,Russia,33,-1.96,-5.00,-3,0,4
+2012.00,Japan,Iraq,-31,9.90,28.00,1,1,0
+2012.00,Lebanon,Iran,46,-10.22,-44.00,1,1,0
+2012.00,Mexico,Costa Rica,-10,4.27,13.00,1,1,0
+2012.00,Northern Ireland,Luxembourg,-56,5.25,10.00,0,1,1
+2012.00,Norway,Slovenia,-17,-6.36,-10.00,1,2,1
+2012.00,Panama,Canada,-25,0.36,12.00,2,2,0
+2012.00,Paraguay,Venezuela,-6,-2.36,-1.00,-2,0,2
+2012.00,Peru,Argentina,6,-7.84,-25.00,0,1,1
+2012.00,Switzerland,Albania,-50,8.69,31.00,2,2,0
+2012.00,Turkey,Estonia,-56,11.18,16.00,3,3,0
+2012.00,Uruguay,Ecuador,-46,6.09,20.00,0,1,1
+2012.00,Uzbekistan,Korea Republic,27,0.56,-18.00,0,2,2
+2012.00,Albania,Iceland,34,-4.05,-25.00,-1,1,2
+2012.00,Argentina,Uruguay,-12,1.93,-2.00,3,3,0
+2012.00,Armenia,Italy,78,-10.81,-38.00,-2,1,3
+2012.00,Belarus,Spain,71,-18.81,-54.00,-3,0,4
+2012.00,Bolivia,Peru,46,-7.36,-5.00,0,1,1
+2012.00,Bulgaria,Denmark,41,-6.63,-16.00,0,1,1
+2012.00,Colombia,Paraguay,-17,7.36,25.00,2,2,0
+2012.00,Ecuador,Chile,54,-4.72,-12.00,2,3,1
+2012.00,El Salvador,Costa Rica,60,-17.95,-8.00,-1,0,1
+2012.00,Estonia,Hungary,44,-6.90,-19.00,-1,0,1
+2012.00,Faroe Islands,Sweden,71,-15.85,-41.00,-1,1,2
+2012.00,Finland,Georgia,-33,3.04,3.00,0,1,1
+2012.00,Panama,Honduras,-4,-0.18,-11.00,0,0,0
+2012.00,Russia,Portugal,62,-6.12,-30.00,1,1,0
+2012.00,Serbia,Belgium,32,-5.90,-23.00,-3,0,3
+2012.00,Slovenia,Cyprus,-21,11.48,17.00,1,2,1
+2012.00,Switzerland,Norway,-42,5.36,29.00,0,1,1
+2012.00,Turkey,Romania,5,3.81,-1.00,-1,0,1
+2012.00,Wales,Scotland,-13,3.63,17.00,1,2,1
+2012.00,Albania,Slovenia,-9,-9.69,-12.00,1,1,0
+2012.00,Belarus,Georgia,-16,-2.95,3.00,2,2,0
+2012.00,Belgium,Scotland,-31,12.27,33.00,2,2,0
+2012.00,Bolivia,Uruguay,40,-13.27,-32.00,3,4,1
+2012.00,Chile,Argentina,4,-3.30,-6.00,-1,1,2
+2012.00,Croatia,Wales,-3,6.00,9.00,2,2,0
+2012.00,Cyprus,Norway,38,-5.12,-7.00,-2,1,3
+2012.00,Czech Republic,Bulgaria,-8,3.54,6.00,0,0,0
+2012.00,Germany,Sweden,-22,9.54,48.00,0,4,4
+2012.00,Hungary,Turkey,12,-4.28,3.00,2,3,1
+2012.00,Iceland,Switzerland,16,-4.63,-6.00,-2,0,2
+2012.00,Iran,Korea Republic,-25,-1.75,-8.00,1,1,0
+2012.00,Iraq,Australia,51,-8.90,-44.00,-1,1,2
+2012.00,Israel,Luxembourg,16,6.98,9.00,3,3,0
+2012.00,Italy,Denmark,8,4.09,19.00,2,3,1
+2012.00,Mexico,El Salvador,-70,22.22,21.00,2,2,0
+2012.00,Paraguay,Peru,22,-1.45,-9.00,1,1,0
+2012.00,Portugal,Northern Ireland,-23,9.81,34.00,0,1,1
+2012.00,Romania,Netherlands,13,-4.90,-44.00,-3,1,4
+2012.00,Slovakia,Greece,-15,-1.36,-17.00,-1,0,1
+2012.00,Spain,France,1,6.90,10.00,0,1,1
+2012.00,Ukraine,Montenegro,-13,3.36,-2.00,-1,0,1
+2012.00,Venezuela,Ecuador,-24,1.09,-15.00,0,0,0
+2012.00,Poland,England,-3,-3.36,-9.00,0,1,1
+2012.00,Iran,Uzbekistan,-52,-2.32,10.00,-1,0,1
+2012.00,Oman,Japan,27,-2.90,-29.00,-1,1,2
+2013.00,Nigeria,Burkina Faso,-7,3.91,9.00,0,1,1
+2013.00,Tunisia,Algeria,-50,-4.27,7.00,1,1,0
+2013.00,Ghana,Mali,-16,4.72,26.00,1,1,0
+2013.00,Zambia,Nigeria,31,-8.75,-5.00,0,1,1
+2013.00,South Africa,Morocco,30,-3.45,18.00,0,2,2
+2013.00,Burkina Faso,Zambia,-24,4.83,-4.00,0,0,0
+2013.00,South Africa,Mali,5,2.09,19.00,0,1,1
+2013.00,Burkina Faso,Ghana,3,-4.09,-20.00,0,1,1
+2013.00,Mali,Nigeria,20,-4.55,-15.00,-3,1,4
+2013.00,Mexico,Jamaica,-37,10.09,24.00,0,0,0
+2013.00,Panama,Costa Rica,30,-6.36,-11.00,0,2,2
+2013.00,Mali,Ghana,16,-4.72,-26.00,2,3,1
+2013.00,Nigeria,Burkina Faso,-7,3.91,9.00,1,1,0
+2013.00,Argentina,Venezuela,-34,6.93,33.00,3,3,0
+2013.00,Croatia,Serbia,-17,3.27,16.00,2,2,0
+2013.00,Czech Republic,Denmark,33,-3.09,-10.00,-3,0,3
+2013.00,France,Georgia,-88,8.96,47.00,2,3,1
+2013.00,Honduras,Mexico,44,-10.45,-13.00,0,2,2
+2013.00,Hungary,Romania,17,-0.46,2.00,0,2,2
+2013.00,Israel,Portugal,95,-8.09,-35.00,0,3,3
+2013.00,Jamaica,Panama,-3,0.54,0.00,0,1,1
+2013.00,Netherlands,Estonia,-74,12.27,61.00,3,3,0
+2013.00,Norway,Albania,-8,3.32,2.00,-1,0,1
+2013.00,Peru,Chile,2,-4.54,-19.00,1,1,0
+2013.00,Poland,Ukraine,-20,1.72,13.00,-2,1,3
+2013.00,Scotland,Wales,13,-3.63,-17.00,-1,1,2
+2013.00,Slovenia,Iceland,43,5.63,-13.00,-1,1,2
+2013.00,Spain,Finland,-54,12.81,54.00,0,1,1
+2013.00,Uruguay,Paraguay,-16,7.36,36.00,0,1,1
+2013.00,Congo,Gabon,-1,-3.72,-1.00,1,1,0
+2013.00,Cyprus,Switzerland,80,-10.48,-36.00,0,0,0
+2013.00,Algeria,Benin,-20,8.18,35.00,2,3,1
+2013.00,Armenia,Czech Republic,53,-3.63,-9.00,-3,0,3
+2013.00,Australia,Oman,-47,1.90,45.00,0,2,2
+2013.00,Bolivia,Argentina,52,-15.21,-30.00,0,1,1
+2013.00,Chile,Uruguay,-8,-1.36,-8.00,2,2,0
+2013.00,Costa Rica,Jamaica,-27,5.81,11.00,2,2,0
+2013.00,Denmark,Bulgaria,-41,6.63,16.00,0,1,1
+2013.00,Ecuador,Paraguay,30,1.27,16.00,3,4,1
+2013.00,France,Spain,-1,-6.90,-10.00,-1,0,1
+2013.00,Montenegro,England,30,-8.45,-20.00,0,1,1
+2013.00,Netherlands,Romania,-13,4.90,44.00,3,4,0
+2013.00,Northern Ireland,Israel,-72,-1.72,1.00,-2,0,2
+2013.00,Panama,Honduras,-4,-0.18,-11.00,2,2,0
+2013.00,Serbia,Scotland,1,6.36,10.00,2,2,0
+2013.00,Turkey,Hungary,-12,4.28,-3.00,0,1,1
+2013.00,Uzbekistan,Lebanon,6,12.55,34.00,1,1,0
+2013.00,Venezuela,Colombia,23,-5.00,-24.00,1,1,0
+2013.00,Wales,Croatia,3,-6.00,-9.00,-1,1,2
+2013.00,Jamaica,Mexico,37,-10.09,-24.00,-1,0,1
+2013.00,Japan,Australia,20,1.00,-16.00,0,1,1
+2013.00,Lebanon,Korea Republic,21,-11.98,-52.00,0,1,1
+2013.00,Oman,Iraq,-4,7.00,-1.00,1,1,0
+2013.00,Albania,Norway,8,-3.32,-2.00,0,1,1
+2013.00,Argentina,Colombia,-11,1.93,9.00,0,0,0
+2013.00,Austria,Sweden,3,0.00,-16.00,1,2,1
+2013.00,Belgium,Serbia,-32,5.90,23.00,1,2,1
+2013.00,Bolivia,Venezuela,18,-8.27,3.00,0,1,1
+2013.00,Costa Rica,Honduras,-34,6.18,0.00,1,1,0
+2013.00,Croatia,Scotland,-16,9.63,26.00,-1,0,1
+2013.00,Czech Republic,Italy,25,-7.18,-29.00,0,0,0
+2013.00,Finland,Belarus,-17,6.00,0.00,1,1,0
+2013.00,Iceland,Slovenia,-43,-5.63,13.00,-2,2,4
+2013.00,Montenegro,Ukraine,13,-3.36,2.00,-3,0,4
+2013.00,Panama,Mexico,40,-10.63,-24.00,0,0,0
+2013.00,Paraguay,Chile,24,-6.00,-28.00,-1,1,2
+2013.00,Peru,Ecuador,-52,0.18,-7.00,1,1,0
+2013.00,Portugal,Russia,-62,6.12,30.00,1,1,0
+2013.00,Gabon,Congo,1,3.72,1.00,0,0,0
+2013.00,Switzerland,Cyprus,-80,10.48,36.00,1,1,0
+2013.00,Benin,Algeria,20,-8.18,-35.00,-2,1,3
+2013.00,Belarus,Finland,17,-6.00,0.00,0,1,1
+2013.00,Chile,Bolivia,-48,11.90,24.00,2,3,1
+2013.00,Colombia,Peru,5,5.90,16.00,2,2,0
+2013.00,Denmark,Armenia,-86,6.72,19.00,-3,0,4
+2013.00,Ecuador,Argentina,58,-8.03,-18.00,0,1,1
+2013.00,Honduras,Jamaica,7,-0.36,11.00,2,2,0
+2013.00,Iran,Lebanon,-46,10.22,44.00,3,4,0
+2013.00,Iraq,Japan,31,-9.90,-28.00,-1,0,1
+2013.00,Korea Republic,Uzbekistan,-27,-0.56,18.00,1,1,0
+2013.00,Mexico,Costa Rica,-10,4.27,13.00,0,0,0
+2013.00,Sweden,Faroe Islands,-71,15.85,41.00,2,2,0
+2013.00,Venezuela,Uruguay,22,-5.00,-35.00,-1,0,1
+2013.00,Congo,Burkina Faso,35,-5.45,-18.00,-1,0,1
+2013.00,Mali,Benin,-17,2.54,22.00,0,2,2
+2013.00,Australia,Iraq,-51,8.90,44.00,1,1,0
+2013.00,Costa Rica,Panama,-30,6.36,11.00,2,2,0
+2013.00,Korea Republic,Iran,25,1.75,8.00,-1,0,1
+2013.00,Northern Ireland,Russia,-39,-3.68,-4.00,1,1,0
+2013.00,Chile,Venezuela,-30,3.63,27.00,3,3,0
+2013.00,Colombia,Ecuador,-47,6.09,9.00,1,1,0
+2013.00,Czech Republic,Armenia,-53,3.63,9.00,-1,1,2
+2013.00,Estonia,Netherlands,74,-12.27,-61.00,0,2,2
+2013.00,Finland,Spain,54,-12.81,-54.00,-2,0,2
+2013.00,Georgia,France,88,-8.96,-47.00,0,0,0
+2013.00,Germany,Austria,-25,9.54,64.00,3,3,0
+2013.00,Ghana,Zambia,-27,8.92,16.00,1,2,1
+2013.00,Italy,Bulgaria,-33,10.72,35.00,1,1,0
+2013.00,Mexico,Honduras,-44,10.45,13.00,-1,1,2
+2013.00,Northern Ireland,Portugal,23,-9.81,-34.00,-2,2,4
+2013.00,Norway,Cyprus,-38,5.12,7.00,2,2,0
+2013.00,Panama,Jamaica,3,-0.54,0.00,0,0,0
+2013.00,Paraguay,Bolivia,-24,5.90,-4.00,3,4,0
+2013.00,Peru,Uruguay,-6,-5.90,-27.00,-1,1,2
+2013.00,Poland,Montenegro,-33,5.09,11.00,0,1,1
+2013.00,Romania,Hungary,-17,0.46,-2.00,3,3,0
+2013.00,Russia,Luxembourg,-17,8.94,14.00,3,4,1
+2013.00,Scotland,Belgium,31,-12.27,-33.00,-2,0,2
+2013.00,Serbia,Croatia,17,-3.27,-16.00,0,1,1
+2013.00,Slovenia,Albania,9,9.69,12.00,1,1,0
+2013.00,Switzerland,Iceland,-16,4.63,6.00,0,4,4
+2013.00,Burkina Faso,Gabon,-36,1.72,17.00,1,1,0
+2013.00,Senegal,Uganda,-46,9.60,30.00,1,1,0
+2013.00,Cameroon,Libya,-50,11.36,19.00,1,1,0
+2013.00,Algeria,Mali,-3,5.63,13.00,1,1,0
+2013.00,Armenia,Denmark,86,-6.72,-19.00,-1,0,1
+2013.00,Belarus,France,72,-11.91,-44.00,-2,2,4
+2013.00,Bolivia,Ecuador,-6,-7.18,-12.00,0,1,1
+2013.00,Cyprus,Slovenia,21,-11.48,-17.00,-2,0,2
+2013.00,Egypt,Guinea,-24,1.63,30.00,2,4,2
+2013.00,Faroe Islands,Germany,93,-25.40,-89.00,-3,0,3
+2013.00,Georgia,Finland,33,-3.04,-3.00,-1,0,1
+2013.00,Honduras,Panama,4,0.18,11.00,0,2,2
+2013.00,Iceland,Albania,-34,4.05,25.00,1,2,1
+2013.00,Italy,Czech Republic,-25,7.18,29.00,1,2,1
+2013.00,Jamaica,Costa Rica,27,-5.81,-11.00,0,1,1
+2013.00,Luxembourg,Northern Ireland,56,-5.25,-10.00,1,3,2
+2013.00,Norway,Switzerland,42,-5.36,-29.00,-2,0,2
+2013.00,Romania,Turkey,-5,-3.81,1.00,-2,0,2
+2013.00,Russia,Israel,-33,1.96,5.00,2,3,1
+2013.00,Ukraine,England,17,-5.09,-22.00,0,0,0
+2013.00,Uruguay,Colombia,1,0.00,11.00,2,2,0
+2013.00,Venezuela,Peru,28,0.90,-8.00,1,3,2
+2013.00,Wales,Serbia,-14,-2.72,7.00,-3,0,3
+2013.00,Albania,Switzerland,50,-8.69,-31.00,-1,1,2
+2013.00,Argentina,Peru,-6,7.84,25.00,2,3,1
+2013.00,Armenia,Bulgaria,45,-0.09,-3.00,1,2,1
+2013.00,Colombia,Chile,7,1.36,-3.00,0,3,3
+2013.00,Croatia,Belgium,15,-2.63,-7.00,-1,1,2
+2013.00,Denmark,Italy,-8,-4.09,-19.00,0,2,2
+2013.00,Ecuador,Uruguay,46,-6.09,-20.00,1,1,0
+2013.00,England,Montenegro,-30,8.45,20.00,3,4,1
+2013.00,Estonia,Turkey,56,-11.18,-16.00,-2,0,2
+2013.00,Greece,Slovakia,15,1.36,17.00,1,1,0
+2013.00,Honduras,Costa Rica,34,-6.18,0.00,1,1,0
+2013.00,Iceland,Cyprus,-64,5.84,30.00,2,2,0
+2013.00,Luxembourg,Russia,17,-8.94,-14.00,-3,0,4
+2013.00,Mexico,Panama,-40,10.63,24.00,1,2,1
+2013.00,Portugal,Israel,-95,8.09,35.00,0,1,1
+2013.00,Slovenia,Norway,17,6.36,10.00,3,3,0
+2013.00,Spain,Belarus,-71,18.81,54.00,1,2,1
+2013.00,Sweden,Austria,-3,0.00,16.00,1,2,1
+2013.00,Ukraine,Poland,20,-1.72,-13.00,1,1,0
+2013.00,Venezuela,Paraguay,6,2.36,1.00,0,1,1
+2013.00,Burkina Faso,Algeria,-10,-5.00,-7.00,1,3,2
+2013.00,Tunisia,Cameroon,-36,-4.63,14.00,0,0,0
+2013.00,Belgium,Wales,-18,8.63,16.00,0,1,1
+2013.00,Bulgaria,Czech Republic,8,-3.54,-6.00,-1,0,1
+2013.00,Chile,Ecuador,-54,4.72,12.00,1,2,1
+2013.00,Costa Rica,Mexico,10,-4.27,-13.00,1,2,1
+2013.00,Cyprus,Albania,30,-1.79,-5.00,0,0,0
+2013.00,England,Poland,3,3.36,9.00,2,2,0
+2013.00,Faroe Islands,Austria,68,-15.85,-25.00,-3,0,3
+2013.00,France,Finland,-55,5.91,44.00,3,3,0
+2013.00,Israel,Northern Ireland,72,1.72,-1.00,0,1,1
+2013.00,Italy,Armenia,-78,10.81,38.00,0,2,2
+2013.00,Jamaica,Honduras,-7,0.36,-11.00,0,2,2
+2013.00,Norway,Iceland,26,-0.72,-23.00,0,1,1
+2013.00,Paraguay,Colombia,17,-7.36,-25.00,-1,1,2
+2013.00,Peru,Bolivia,-46,7.36,5.00,0,1,1
+2013.00,Portugal,Luxembourg,-79,15.07,44.00,3,3,0
+2013.00,Romania,Estonia,-61,7.36,17.00,2,2,0
+2013.00,Scotland,Croatia,16,-9.63,-26.00,2,2,0
+2013.00,Spain,Georgia,-87,15.86,57.00,2,2,0
+2013.00,Switzerland,Slovenia,-59,-1.00,19.00,1,1,0
+2013.00,Turkey,Netherlands,18,-1.09,-45.00,-2,0,2
+2013.00,Uruguay,Argentina,12,-1.93,2.00,1,3,2
+2013.00,Greece,Romania,12,3.72,19.00,2,3,1
+2013.00,Iceland,Croatia,4,-9.81,-2.00,0,0,0
+2013.00,Portugal,Sweden,-19,3.81,14.00,1,1,0
+2013.00,Ukraine,France,23,-4.37,-29.00,2,2,0
+2013.00,Cameroon,Tunisia,36,4.63,-14.00,3,4,1
+2013.00,Algeria,Burkina Faso,10,5.00,7.00,1,1,0
+2013.00,Croatia,Iceland,-4,9.81,2.00,2,2,0
+2013.00,Egypt,Ghana,-5,-2.09,-5.00,1,2,1
+2013.00,France,Ukraine,-23,4.37,29.00,3,3,0
+2013.00,Romania,Greece,-12,-3.72,-19.00,0,1,1
+2013.00,Sweden,Portugal,19,-3.81,-14.00,-1,2,3
+2014.00,Brazil,Croatia,-16,1.18,-2.00,2,3,1
+2014.00,Chile,Australia,-31,5.45,-31.00,2,3,1
+2014.00,Mexico,Cameroon,-35,1.36,19.00,1,1,0
+2014.00,Colombia,Greece,-28,3.63,2.00,3,3,0
+2014.00,England,Italy,-7,-0.63,-6.00,-1,1,2
+2014.00,Uruguay,Costa Rica,-8,6.27,20.00,-2,1,3
+2014.00,France,Honduras,-52,12.18,15.00,3,3,0
+2014.00,Switzerland,Ecuador,-57,3.18,4.00,1,2,1
+2014.00,Germany,Portugal,-3,5.72,34.00,3,4,0
+2014.00,Iran,Nigeria,-11,-3.48,18.00,0,0,0
+2014.00,Belgium,Algeria,-61,8.63,6.00,1,2,1
+2014.00,Brazil,Mexico,-13,5.45,-15.00,0,0,0
+2014.00,Russia,Korea Republic,5,0.96,-45.00,0,1,1
+2014.00,Australia,Netherlands,21,-4.36,11.00,-1,2,3
+2014.00,Cameroon,Croatia,32,-5.63,-6.00,-3,0,4
+2014.00,Spain,Chile,-1,8.00,13.00,-2,0,2
+2014.00,Japan,Greece,16,-2.18,20.00,0,0,0
+2014.00,Uruguay,England,4,-0.45,12.00,1,2,1
+2014.00,Honduras,Ecuador,-4,-6.36,0.00,-1,1,2
+2014.00,Italy,Costa Rica,-5,7.36,14.00,-1,0,1
+2014.00,Argentina,Iran,-31,10.23,-3.00,1,1,0
+2014.00,Germany,Ghana,-50,10.90,34.00,0,2,2
+2014.00,Belgium,Russia,-63,10.49,23.00,1,1,0
+2014.00,Korea Republic,Algeria,-3,-2.81,28.00,-2,2,4
+2014.00,Australia,Spain,32,-13.45,18.00,-3,0,3
+2014.00,Brazil,Cameroon,-48,6.81,4.00,3,4,1
+2014.00,Croatia,Mexico,3,4.27,-13.00,-2,1,3
+2014.00,Netherlands,Chile,10,-1.09,20.00,2,2,0
+2014.00,Costa Rica,England,12,-6.72,-8.00,0,0,0
+2014.00,Italy,Uruguay,3,1.09,-6.00,-1,0,1
+2014.00,Japan,Colombia,44,-5.81,18.00,-3,1,4
+2014.00,Ecuador,France,56,-5.82,-15.00,0,0,0
+2014.00,Honduras,Switzerland,53,-9.54,-4.00,-3,0,3
+2014.00,Nigeria,Argentina,42,-6.75,-15.00,-1,2,3
+2014.00,Algeria,Russia,-2,1.85,17.00,0,1,1
+2014.00,Korea Republic,Belgium,58,-11.45,22.00,-1,0,1
+2014.00,Portugal,Ghana,-47,5.18,0.00,1,2,1
+2014.00,Brazil,Chile,-7,4.81,-14.00,0,1,1
+2014.00,Colombia,Uruguay,-1,0.00,-11.00,2,2,0
+2014.00,Costa Rica,Greece,-19,-2.63,-7.00,0,1,1
+2014.00,Netherlands,Mexico,4,-0.45,19.00,1,2,1
+2014.00,France,Nigeria,-40,4.54,12.00,2,2,0
+2014.00,Germany,Algeria,-63,10.00,47.00,1,2,1
+2014.00,Argentina,Switzerland,-1,4.84,14.00,1,1,0
+2014.00,Brazil,Colombia,-14,3.45,-11.00,1,2,1
+2014.00,France,Germany,6,-6.53,-33.00,-1,0,1
+2014.00,Argentina,Belgium,2,-2.96,11.00,1,1,0
+2014.00,Netherlands,Costa Rica,-6,3.81,32.00,0,0,0
+2014.00,Netherlands,Argentina,14,-4.39,14.00,0,0,0
+2014.00,Brazil,Netherlands,-17,5.90,-34.00,-3,0,3
+2014.00,Germany,Argentina,-4,4.33,30.00,1,1,0
+2015.00,Korea Republic,Oman,-26,1.90,31.00,1,1,0
+2015.00,Japan,Palestine,-36,13.27,66.00,3,4,0
+2015.00,Australia,Oman,-47,0.81,45.00,3,4,0
+2015.00,Iraq,Japan,31,-8.14,-28.00,-1,0,1
+2015.00,Australia,Korea Republic,-21,-1.09,14.00,-1,0,1
+2015.00,Burkina Faso,Gabon,-36,0.45,17.00,-2,0,2
+2015.00,Uzbekistan,Saudi Arabia,20,-5.10,6.00,2,3,1
+2015.00,Algeria,South Africa,-8,6.00,-6.00,2,3,1
+2015.00,Ghana,Senegal,23,-2.09,18.00,-1,1,2
+2015.00,Iraq,Palestine,-5,5.12,38.00,2,2,0
+2015.00,Mali,Cameroon,17,-4.36,-6.00,0,1,1
+2015.00,Gabon,Congo,1,1.90,1.00,-1,0,1
+2015.00,Korea Republic,Uzbekistan,-27,6.10,18.00,2,2,0
+2015.00,Zambia,Tunisia,64,-8.31,-10.00,-1,1,2
+2015.00,Ghana,Algeria,-13,-2.27,13.00,1,1,0
+2015.00,Iran,Iraq,-55,4.14,22.00,0,3,3
+2015.00,South Africa,Senegal,44,-5.81,11.00,0,1,1
+2015.00,Cameroon,Guinea,-20,3.63,15.00,0,1,1
+2015.00,Congo,Burkina Faso,35,-2.36,-18.00,1,2,1
+2015.00,Korea Republic,Iraq,-30,6.78,30.00,2,2,0
+2015.00,Senegal,Algeria,-36,-0.18,-5.00,-2,0,2
+2015.00,South Africa,Ghana,21,-3.72,-7.00,-1,1,2
+2015.00,Guinea,Mali,3,0.72,-9.00,0,1,1
+2015.00,Australia,Korea Republic,-21,-1.09,14.00,1,2,1
+2015.00,Ghana,Guinea,-19,2.63,35.00,3,3,0
+2015.00,India,Oman,10,-16.45,-30.00,-1,1,2
+2015.00,Saudi Arabia,Palestine,-28,10.90,44.00,1,3,2
+2015.00,India,Iran,61,-15.72,-53.00,-3,0,3
+2015.00,Lebanon,Korea Republic,21,-13.40,-52.00,-3,0,3
+2015.00,Colombia,Peru,5,6.63,16.00,2,2,0
+2015.00,Oman,Iran,51,0.72,-23.00,0,1,1
+2015.00,Syria,Japan,16,-2.77,-46.00,-3,0,3
+2015.00,Venezuela,Paraguay,6,-0.72,1.00,-1,0,1
+2015.00,Ecuador,Bolivia,6,9.00,12.00,2,2,0
+2015.00,Oman,India,-10,16.45,30.00,3,3,0
+2015.00,Palestine,Saudi Arabia,28,-10.90,-44.00,0,0,0
+2015.00,Benin,Burkina Faso,30,-2.81,-28.00,1,2,1
+2015.00,Bolivia,Venezuela,18,-8.72,3.00,2,4,2
+2015.00,Ecuador,Uruguay,46,-6.18,-20.00,1,2,1
+2015.00,Burkina Faso,Benin,-30,2.81,28.00,2,2,0
+2015.00,Colombia,Argentina,11,-5.27,-9.00,-1,0,1
+2015.00,Honduras,Mexico,44,-8.54,-13.00,-2,0,2
+2015.00,Venezuela,Ecuador,-24,-0.27,-15.00,-2,1,3
+2016.00,Bolivia,Colombia,41,-14.27,-21.00,-1,2,3
+2016.00,Chile,Argentina,4,-6.63,-6.00,-1,1,2
+2016.00,Ecuador,Paraguay,30,-0.45,16.00,0,2,2
+2016.00,Iran,India,-61,15.72,53.00,3,4,0
+2016.00,Korea Republic,Lebanon,-21,13.40,52.00,1,1,0
+2016.00,Peru,Venezuela,-28,-1.09,8.00,0,2,2
+2016.00,Brazil,Uruguay,-15,4.18,-22.00,0,2,2
+2016.00,Canada,Mexico,65,-8.45,-36.00,-3,0,3
+2016.00,El Salvador,Honduras,26,-2.63,-8.00,0,2,2
+2016.00,Jamaica,Costa Rica,27,-2.81,-11.00,0,1,1
+2016.00,Argentina,Bolivia,-52,19.54,30.00,2,2,0
+2016.00,Colombia,Ecuador,-47,5.27,9.00,3,3,0
+2016.00,Costa Rica,Jamaica,-27,2.81,11.00,3,3,0
+2016.00,Honduras,El Salvador,-26,2.63,8.00,2,2,0
+2016.00,Iran,Oman,-51,-0.72,23.00,2,2,0
+2016.00,Mexico,Canada,-65,8.45,36.00,2,2,0
+2016.00,Paraguay,Brazil,31,-9.90,-14.00,0,2,2
+2016.00,Uruguay,Peru,6,7.54,27.00,1,1,0
+2016.00,Venezuela,Chile,30,-4.18,-27.00,-3,1,4
+2016.00,France,Romania,-25,9.90,27.00,1,2,1
+2016.00,Albania,Switzerland,50,-4.81,-31.00,-1,0,1
+2016.00,England,Russia,-53,5.28,24.00,0,1,1
+2016.00,Wales,Slovakia,-8,0.45,1.00,1,2,1
+2016.00,Germany,Ukraine,-29,7.85,62.00,2,2,0
+2016.00,Poland,Northern Ireland,-17,7.81,19.00,1,1,0
+2016.00,Turkey,Croatia,19,-3.45,-13.00,-1,0,1
+2016.00,Belgium,Italy,-17,2.18,-7.00,-2,0,2
+2016.00,Spain,Czech Republic,-37,8.90,40.00,1,1,0
+2016.00,Austria,Hungary,-23,6.81,-6.00,-2,0,2
+2016.00,Portugal,Iceland,-18,9.72,16.00,0,1,1
+2016.00,France,Albania,-49,11.63,42.00,2,2,0
+2016.00,Romania,Switzerland,26,-3.09,-16.00,0,1,1
+2016.00,Russia,Slovakia,37,0.25,-6.00,-1,1,2
+2016.00,England,Wales,-8,5.09,17.00,1,2,1
+2016.00,Germany,Poland,-9,5.03,49.00,0,0,0
+2016.00,Ukraine,Northern Ireland,3,5.00,6.00,-2,0,2
+2016.00,Czech Republic,Croatia,27,-4.90,-15.00,0,2,2
+2016.00,Italy,Sweden,-3,7.46,14.00,1,1,0
+2016.00,Spain,Turkey,-29,7.45,38.00,3,3,0
+2016.00,Iceland,Hungary,-27,1.90,8.00,0,1,1
+2016.00,Portugal,Austria,-22,4.81,30.00,0,0,0
+2016.00,France,Switzerland,1,6.81,11.00,0,0,0
+2016.00,Romania,Albania,-24,1.72,15.00,-1,0,1
+2016.00,Russia,Wales,45,-0.19,-7.00,-3,0,3
+2016.00,Slovakia,England,16,-5.54,-18.00,0,0,0
+2016.00,Croatia,Spain,10,-4.00,-25.00,1,2,1
+2016.00,Czech Republic,Turkey,8,-1.45,-2.00,-2,0,2
+2016.00,Northern Ireland,Germany,26,-12.85,-68.00,-1,0,1
+2016.00,Ukraine,Poland,20,-2.81,-13.00,-1,0,1
+2016.00,Hungary,Portugal,45,-11.63,-24.00,0,3,3
+2016.00,Iceland,Austria,-4,-4.90,14.00,1,2,1
+2016.00,Sweden,Belgium,20,-9.65,-7.00,-1,0,1
+2016.00,Croatia,Portugal,14,-0.72,-14.00,-1,0,1
+2016.00,Switzerland,Poland,-4,-1.90,5.00,0,1,1
+2016.00,Wales,Northern Ireland,-6,4.63,11.00,1,1,0
+2016.00,Germany,Slovakia,-28,8.67,58.00,3,3,0
+2016.00,Hungary,Belgium,46,-14.90,-17.00,-3,0,4
+2016.00,England,Iceland,-9,8.63,10.00,-1,1,2
+2016.00,Italy,Spain,12,-2.18,-11.00,2,2,0
+2016.00,Poland,Portugal,6,-3.00,-15.00,0,1,1
+2016.00,Wales,Belgium,18,-9.45,-16.00,2,3,1
+2016.00,Germany,Italy,-19,0.94,34.00,0,1,1
+2016.00,Portugal,Wales,-17,6.18,23.00,2,2,0
+2016.00,France,Germany,6,-0.12,-33.00,2,2,0
+2016.00,France,Portugal,3,1.90,1.00,-1,0,1
+2016.00,Australia,Iraq,-51,5.69,44.00,2,2,0
+2016.00,Bolivia,Peru,46,-7.63,-5.00,-3,0,3
+2016.00,Colombia,Venezuela,-23,5.54,24.00,2,2,0
+2016.00,Ecuador,Brazil,61,-10.36,2.00,-3,0,3
+2016.00,Uzbekistan,Syria,12,-4.70,30.00,1,1,0
+2016.00,El Salvador,Mexico,70,-11.18,-21.00,-2,1,3
+2016.00,Honduras,Canada,-21,-0.09,23.00,1,2,1
+2016.00,Panama,Jamaica,3,-4.45,0.00,2,2,0
+2016.00,Czech Republic,Northern Ireland,18,5.18,5.00,0,0,0
+2016.00,Denmark,Armenia,-86,10.54,19.00,1,1,0
+2016.00,Norway,Germany,47,-9.31,-73.00,-3,0,3
+2016.00,Romania,Montenegro,-11,2.72,0.00,0,1,1
+2016.00,Slovakia,England,16,-5.54,-18.00,-1,0,1
+2016.00,Croatia,Turkey,-19,3.45,13.00,0,1,1
+2016.00,Georgia,Austria,69,-6.09,-16.00,-1,1,2
+2016.00,Israel,Italy,79,-12.72,-35.00,-2,1,3
+2016.00,Ukraine,Iceland,8,3.90,-12.00,0,1,1
+2016.00,Belarus,France,72,-14.89,-44.00,0,0,0
+2016.00,Brazil,Colombia,-14,5.09,-11.00,1,2,1
+2016.00,Bulgaria,Luxembourg,-30,3.97,9.00,1,4,3
+2016.00,Canada,El Salvador,-5,2.72,-15.00,2,3,1
+2016.00,Chile,Bolivia,-48,12.90,24.00,3,3,0
+2016.00,Costa Rica,Panama,-30,7.27,11.00,2,3,1
+2016.00,Cyprus,Belgium,83,-23.63,-39.00,-3,0,3
+2016.00,Faroe Islands,Hungary,45,-11.24,-31.00,0,0,0
+2016.00,Iraq,Saudi Arabia,23,-5.78,-6.00,-1,1,2
+2016.00,Mexico,Honduras,-44,8.54,13.00,0,0,0
+2016.00,Peru,Ecuador,-52,-1.36,-7.00,1,2,1
+2016.00,Sweden,Netherlands,4,-5.65,-32.00,0,1,1
+2016.00,Switzerland,Portugal,2,-4.90,-10.00,2,2,0
+2016.00,Syria,Korea Republic,15,-1.40,-48.00,0,0,0
+2016.00,Uruguay,Paraguay,-16,5.72,36.00,3,4,0
+2016.00,Venezuela,Argentina,34,-10.81,-33.00,0,2,2
+2016.00,Austria,Wales,5,1.36,-7.00,0,2,2
+2016.00,Ecuador,Chile,54,-3.90,-12.00,3,3,0
+2016.00,Iceland,Finland,-40,0.00,27.00,1,3,2
+2016.00,Italy,Spain,12,-2.18,-11.00,0,1,1
+2016.00,Japan,Iraq,-31,8.14,28.00,1,2,1
+2016.00,Saudi Arabia,Australia,28,0.09,-38.00,0,2,2
+2016.00,Turkey,Ukraine,7,1.63,1.00,0,2,2
+2016.00,Uzbekistan,Iran,52,-3.47,-10.00,-1,0,1
+2016.00,France,Bulgaria,-46,14.72,36.00,3,4,1
+2016.00,Ghana,Uganda,-23,10.15,48.00,0,0,0
+2016.00,Greece,Cyprus,-42,14.90,39.00,2,2,0
+2016.00,Hungary,Switzerland,43,-6.72,-14.00,-1,2,3
+2016.00,Luxembourg,Sweden,60,-10.41,-30.00,-1,0,1
+2016.00,Netherlands,Belarus,-60,12.26,61.00,3,4,1
+2016.00,Burkina Faso,South Africa,-18,-1.09,-13.00,0,1,1
+2016.00,Gabon,Morocco,48,-7.00,-12.00,0,0,0
+2016.00,Germany,Czech Republic,-44,7.67,63.00,3,3,0
+2016.00,Poland,Denmark,-2,1.09,4.00,1,3,2
+2016.00,Slovenia,Slovakia,36,1.90,-5.00,1,1,0
+2016.00,Albania,Spain,48,-13.00,-52.00,-2,0,2
+2016.00,Algeria,Cameroon,14,1.27,7.00,0,1,1
+2016.00,Congo,Egypt,43,-4.81,-33.00,-1,1,2
+2016.00,Finland,Croatia,44,-9.00,-29.00,-1,0,1
+2016.00,Iceland,Turkey,-15,-5.54,11.00,2,2,0
+2016.00,Serbia,Austria,9,1.54,0.00,1,3,2
+2016.00,Tunisia,Guinea,-56,-1.45,29.00,2,2,0
+2016.00,Wales,Georgia,-74,4.72,23.00,0,1,1
+2016.00,Zambia,Nigeria,31,-11.31,-5.00,-1,1,2
+2016.00,Belarus,Luxembourg,-4,3.80,1.00,0,1,1
+2016.00,Estonia,Greece,49,-11.75,-36.00,-2,0,2
+2016.00,Netherlands,France,12,-2.63,17.00,-1,0,1
+2016.00,Sweden,Bulgaria,-30,6.43,21.00,3,3,0
+2016.00,Argentina,Paraguay,-28,10.09,34.00,-1,0,1
+2016.00,Australia,Japan,-20,-2.45,16.00,0,1,1
+2016.00,Bolivia,Ecuador,-6,-9.00,-12.00,0,2,2
+2016.00,Chile,Peru,-2,5.27,19.00,1,2,1
+2016.00,Colombia,Uruguay,-1,-0.90,-11.00,0,2,2
+2016.00,Denmark,Montenegro,-31,6.63,7.00,-1,0,1
+2016.00,Germany,Northern Ireland,-26,12.85,68.00,2,2,0
+2016.00,Iran,Korea Republic,-25,-2.63,-8.00,1,1,0
+2016.00,Poland,Armenia,-88,11.63,23.00,1,2,1
+2016.00,Slovakia,Scotland,-5,1.27,16.00,3,3,0
+2016.00,Slovenia,England,52,-3.63,-23.00,0,0,0
+2016.00,Venezuela,Brazil,37,-10.63,-13.00,-2,0,2
+2016.00,Colombia,Chile,7,1.36,-3.00,0,0,0
+2016.00,Armenia,Montenegro,55,-3.90,-12.00,1,3,2
+2016.00,Czech Republic,Norway,-3,1.63,10.00,1,2,1
+2016.00,England,Scotland,-21,6.81,34.00,3,3,0
+2016.00,France,Sweden,-16,8.28,15.00,1,2,1
+2016.00,Honduras,Panama,4,2.63,11.00,-1,0,1
+2016.00,Libya,Tunisia,86,-4.31,-33.00,-1,0,1
+2016.00,Romania,Poland,22,-5.00,-11.00,-3,0,3
+2016.00,Albania,Israel,-43,1.90,-6.00,-3,0,3
+2016.00,Cameroon,Zambia,-28,13.40,-4.00,0,1,1
+2016.00,Croatia,Iceland,-4,9.00,2.00,2,2,0
+2016.00,Mali,Gabon,-23,1.90,11.00,0,0,0
+2016.00,Nigeria,Algeria,-17,-3.36,2.00,2,3,1
+2016.00,South Africa,Senegal,44,-5.81,11.00,1,2,1
+2016.00,Uganda,Congo,-15,-2.97,-10.00,1,1,0
+2016.00,Ukraine,Finland,-32,3.90,15.00,1,1,0
+2016.00,Wales,Serbia,-14,-2.90,7.00,0,1,1
+2016.00,Bulgaria,Belarus,-26,0.17,8.00,1,1,0
+2016.00,Egypt,Ghana,-5,-2.36,-5.00,2,2,0
+2016.00,Luxembourg,Netherlands,64,-16.06,-62.00,-2,1,3
+2016.00,Switzerland,Faroe Islands,-88,17.96,45.00,2,2,0
+2016.00,Argentina,Colombia,-11,5.27,9.00,3,3,0
+2016.00,Bolivia,Paraguay,24,-9.45,4.00,1,1,0
+2016.00,Chile,Uruguay,-8,-2.27,-8.00,2,3,1
+2016.00,Ecuador,Venezuela,24,0.27,15.00,3,3,0
+2016.00,Japan,Saudi Arabia,-8,2.36,22.00,1,2,1
+2016.00,Korea Republic,Uzbekistan,-27,6.10,18.00,1,2,1
+2016.00,Panama,Mexico,40,-11.18,-24.00,0,0,0
+2016.00,Peru,Brazil,9,-11.72,-5.00,-2,0,2
+2016.00,Syria,Iran,40,1.22,-40.00,0,0,0
+2017.00,Burkina Faso,Cameroon,4,-5.81,0.00,0,1,1
+2017.00,Tunisia,Senegal,-14,-6.18,12.00,-2,0,2
+2017.00,Ghana,Uganda,-23,10.15,48.00,1,1,0
+2017.00,Mali,Egypt,21,-1.00,-21.00,0,0,0
+2017.00,Gabon,Burkina Faso,36,-0.45,-17.00,0,1,1
+2017.00,Algeria,Tunisia,50,6.36,-7.00,-1,1,2
+2017.00,Egypt,Uganda,-28,7.79,43.00,1,1,0
+2017.00,Ghana,Mali,-16,3.36,26.00,1,1,0
+2017.00,Gabon,Cameroon,40,-6.27,-17.00,0,0,0
+2017.00,Senegal,Algeria,-36,-0.18,-5.00,0,2,2
+2017.00,Egypt,Ghana,-5,-2.36,-5.00,1,1,0
+2017.00,Uganda,Mali,7,-6.79,-22.00,0,1,1
+2017.00,Burkina Faso,Tunisia,40,-0.72,-14.00,2,2,0
+2017.00,Senegal,Cameroon,-22,1.09,2.00,0,0,0
+2017.00,Egypt,Morocco,4,-4.09,20.00,1,1,0
+2017.00,Burkina Faso,Egypt,8,-2.45,-15.00,0,1,1
+2017.00,Cameroon,Ghana,-1,1.00,-20.00,2,2,0
+2017.00,Burkina Faso,Ghana,3,-4.81,-20.00,1,1,0
+2017.00,Egypt,Cameroon,-4,-3.36,15.00,-1,1,2
+2017.00,Argentina,Chile,-4,6.63,6.00,1,1,0
+2017.00,Colombia,Bolivia,-41,14.27,21.00,1,1,0
+2017.00,Iraq,Australia,51,-5.69,-44.00,0,1,1
+2017.00,Syria,Uzbekistan,-12,4.70,-30.00,1,1,0
+2017.00,Venezuela,Peru,28,1.09,-8.00,0,2,2
+2017.00,Croatia,Ukraine,-12,5.09,14.00,1,1,0
+2017.00,Georgia,Serbia,60,-7.63,-16.00,-1,1,2
+2017.00,Italy,Albania,-36,10.81,41.00,2,2,0
+2017.00,Mexico,Costa Rica,-10,3.90,13.00,2,2,0
+2017.00,Spain,Israel,-91,14.90,46.00,3,4,1
+2017.00,Turkey,Finland,-25,5.54,16.00,2,2,0
+2017.00,Belgium,Greece,-41,8.72,0.00,0,1,1
+2017.00,Bulgaria,Netherlands,34,-12.09,-53.00,2,2,0
+2017.00,Cyprus,Estonia,-7,-3.15,-3.00,0,0,0
+2017.00,Luxembourg,France,76,-18.70,-45.00,-2,1,3
+2017.00,Portugal,Hungary,-45,11.63,24.00,3,3,0
+2017.00,Sweden,Belarus,-56,6.61,29.00,3,4,0
+2017.00,Montenegro,Poland,33,-7.72,-11.00,-1,1,2
+2017.00,Northern Ireland,Norway,-21,-3.54,5.00,2,2,0
+2017.00,Romania,Denmark,20,-3.90,-7.00,0,0,0
+2017.00,Scotland,Slovenia,-31,-3.18,-11.00,1,1,0
+2017.00,Bolivia,Argentina,52,-19.54,-30.00,2,2,0
+2017.00,Brazil,Paraguay,-31,9.90,14.00,3,3,0
+2017.00,Chile,Venezuela,-30,4.18,27.00,2,3,1
+2017.00,Ecuador,Colombia,47,-5.27,-9.00,-2,0,2
+2017.00,Honduras,Costa Rica,34,-4.63,0.00,0,1,1
+2017.00,Korea Republic,Syria,-15,1.40,48.00,1,1,0
+2017.00,Peru,Uruguay,-6,-7.54,-27.00,1,2,1
+2017.00,Saudi Arabia,Iraq,-23,5.78,6.00,1,1,0
+2017.00,Australia,Saudi Arabia,-28,-0.09,38.00,1,3,2
+2017.00,Costa Rica,Panama,-30,7.27,11.00,0,0,0
+2017.00,Mexico,Honduras,-44,8.54,13.00,3,3,0
+2017.00,Belarus,Bulgaria,26,-0.17,-8.00,1,2,1
+2017.00,Estonia,Belgium,90,-20.48,-36.00,-2,0,2
+2017.00,Faroe Islands,Switzerland,88,-17.96,-45.00,-2,0,2
+2017.00,Sweden,France,16,-8.28,-15.00,1,2,1
+2017.00,Montenegro,Armenia,-55,3.90,12.00,3,4,1
+2017.00,Norway,Czech Republic,3,-1.63,-10.00,0,1,1
+2017.00,Poland,Romania,-22,5.00,11.00,2,3,1
+2017.00,Scotland,England,21,-6.81,-34.00,0,2,2
+2017.00,Finland,Ukraine,32,-3.90,-15.00,-1,1,2
+2017.00,Iceland,Croatia,4,-9.00,-2.00,1,1,0
+2017.00,Israel,Albania,43,-1.90,6.00,-3,0,3
+2017.00,Serbia,Wales,14,2.90,-7.00,0,1,1
+2017.00,Iran,Uzbekistan,-52,3.47,10.00,2,2,0
+2017.00,Iraq,Japan,31,-8.14,-28.00,0,1,1
+2017.00,Panama,Honduras,-4,-2.63,-11.00,0,2,2
+2017.00,Brazil,Ecuador,-61,10.36,-2.00,2,2,0
+2017.00,Bulgaria,Sweden,30,-6.43,-21.00,1,3,2
+2017.00,Chile,Paraguay,-24,3.45,28.00,-3,0,3
+2017.00,France,Netherlands,-12,2.63,-17.00,3,4,0
+2017.00,Greece,Estonia,-49,11.75,36.00,0,0,0
+2017.00,Guinea,Libya,-30,5.77,4.00,1,3,2
+2017.00,Japan,Australia,20,2.45,-16.00,2,2,0
+2017.00,Korea Republic,Iran,25,2.63,8.00,0,0,0
+2017.00,Luxembourg,Belarus,4,-3.80,-1.00,1,1,0
+2017.00,Peru,Bolivia,-46,7.63,5.00,1,2,1
+2017.00,Uganda,Egypt,28,-7.79,-43.00,1,1,0
+2017.00,Uruguay,Argentina,12,-4.36,2.00,0,0,0
+2017.00,Venezuela,Colombia,23,-5.54,-24.00,0,0,0
+2017.00,Czech Republic,Germany,44,-7.67,-63.00,-1,1,2
+2017.00,Denmark,Poland,2,-1.09,-4.00,3,4,0
+2017.00,Ghana,Congo,-38,7.18,38.00,0,1,1
+2017.00,Mexico,Panama,-40,11.18,24.00,1,1,0
+2017.00,Nigeria,Cameroon,-3,-2.09,9.00,3,4,0
+2017.00,Romania,Armenia,-66,6.63,12.00,1,1,0
+2017.00,Slovakia,Slovenia,-36,-1.90,5.00,1,1,0
+2017.00,Finland,Iceland,40,0.00,-27.00,1,1,0
+2017.00,Senegal,Burkina Faso,-26,6.90,2.00,0,0,0
+2017.00,Spain,Italy,-12,2.18,11.00,3,3,0
+2017.00,Ukraine,Turkey,-7,-1.63,-1.00,2,2,0
+2017.00,Wales,Austria,-5,-1.36,7.00,1,1,0
+2017.00,Zambia,Algeria,14,-14.68,-3.00,2,3,1
+2017.00,Belarus,Sweden,56,-6.61,-29.00,-3,0,4
+2017.00,Estonia,Cyprus,7,3.15,3.00,1,1,0
+2017.00,France,Luxembourg,-76,18.70,45.00,0,0,0
+2017.00,Greece,Belgium,41,-8.72,0.00,-1,1,2
+2017.00,Hungary,Portugal,45,-11.63,-24.00,-1,0,1
+2017.00,Netherlands,Bulgaria,-34,12.09,53.00,2,3,1
+2017.00,Armenia,Denmark,86,-10.54,-19.00,-3,1,4
+2017.00,Cameroon,Nigeria,3,2.09,-9.00,0,1,1
+2017.00,England,Slovakia,-16,5.54,18.00,1,2,1
+2017.00,Libya,Guinea,30,-5.77,-4.00,1,1,0
+2017.00,Montenegro,Romania,11,-2.72,0.00,1,1,0
+2017.00,Northern Ireland,Czech Republic,-18,-5.18,-5.00,2,2,0
+2017.00,Algeria,Zambia,-14,14.68,3.00,-1,0,1
+2017.00,Argentina,Venezuela,-34,10.81,33.00,0,1,1
+2017.00,Austria,Georgia,-69,6.09,16.00,0,1,1
+2017.00,Bolivia,Chile,48,-12.90,-24.00,1,1,0
+2017.00,Burkina Faso,Senegal,26,-6.90,-2.00,0,2,2
+2017.00,Colombia,Brazil,14,-5.09,11.00,0,1,1
+2017.00,Costa Rica,Mexico,10,-3.90,-13.00,0,1,1
+2017.00,Ecuador,Peru,52,1.36,7.00,-2,0,2
+2017.00,Egypt,Uganda,-28,7.79,43.00,1,1,0
+2017.00,Iceland,Ukraine,-8,-3.90,12.00,2,2,0
+2017.00,Iran,Syria,-40,-1.22,40.00,0,2,2
+2017.00,Italy,Israel,-79,12.72,35.00,1,1,0
+2017.00,Mali,Morocco,25,-5.09,-1.00,0,0,0
+2017.00,Paraguay,Uruguay,16,-5.72,-36.00,-1,1,2
+2017.00,Saudi Arabia,Japan,8,-2.36,-22.00,1,1,0
+2017.00,Turkey,Croatia,19,-3.45,-13.00,1,1,0
+2017.00,Uzbekistan,Korea Republic,27,-6.10,-18.00,0,0,0
+2017.00,Argentina,Peru,-6,11.90,25.00,0,0,0
+2017.00,Bolivia,Brazil,55,-19.36,-10.00,0,0,0
+2017.00,Chile,Ecuador,-54,3.90,12.00,1,2,1
+2017.00,Colombia,Paraguay,-17,4.81,25.00,-1,1,2
+2017.00,England,Slovenia,-52,3.63,23.00,1,1,0
+2017.00,Montenegro,Denmark,31,-6.63,-7.00,-1,0,1
+2017.00,Northern Ireland,Germany,26,-12.85,-68.00,-2,1,3
+2017.00,Scotland,Slovakia,5,-1.27,-16.00,1,1,0
+2017.00,Syria,Australia,36,-0.31,-62.00,0,1,1
+2017.00,Venezuela,Uruguay,22,-6.45,-35.00,0,0,0
+2017.00,Austria,Serbia,-9,-1.54,0.00,1,3,2
+2017.00,Croatia,Finland,-44,9.00,29.00,0,1,1
+2017.00,Georgia,Wales,74,-4.72,-23.00,-1,0,1
+2017.00,Spain,Albania,-48,13.00,52.00,3,3,0
+2017.00,Turkey,Iceland,15,5.54,-11.00,-3,0,3
+2017.00,Belarus,Netherlands,60,-12.26,-61.00,-2,1,3
+2017.00,Bulgaria,France,46,-14.72,-36.00,-1,0,1
+2017.00,Cameroon,Algeria,-14,-1.27,-7.00,2,2,0
+2017.00,Costa Rica,Honduras,-34,4.63,0.00,0,1,1
+2017.00,Cyprus,Greece,42,-14.90,-39.00,-1,1,2
+2017.00,Guinea,Tunisia,56,1.45,-29.00,-3,1,4
+2017.00,Morocco,Gabon,-48,7.00,12.00,3,3,0
+2017.00,Nigeria,Zambia,-31,11.31,5.00,1,1,0
+2017.00,South Africa,Burkina Faso,18,1.09,13.00,2,3,1
+2017.00,Uganda,Ghana,23,-10.15,-48.00,0,0,0
+2017.00,Denmark,Romania,-20,3.90,7.00,0,1,1
+2017.00,Egypt,Congo,-43,4.81,33.00,1,2,1
+2017.00,Norway,Northern Ireland,21,3.54,-5.00,1,1,0
+2017.00,Poland,Montenegro,-33,7.72,11.00,2,4,2
+2017.00,Slovenia,Scotland,31,3.18,11.00,0,2,2
+2017.00,Albania,Italy,36,-10.81,-41.00,-1,0,1
+2017.00,Finland,Turkey,25,-5.54,-16.00,0,2,2
+2017.00,Israel,Spain,91,-14.90,-46.00,-1,0,1
+2017.00,Serbia,Georgia,-60,7.63,16.00,1,1,0
+2017.00,Ukraine,Croatia,12,-5.09,-14.00,-2,0,2
+2017.00,Australia,Syria,-36,0.31,62.00,1,2,1
+2017.00,Belgium,Cyprus,-83,23.63,39.00,3,4,0
+2017.00,Brazil,Chile,-7,6.45,-14.00,3,3,0
+2017.00,Ecuador,Argentina,58,-10.54,-18.00,-2,1,3
+2017.00,France,Belarus,-72,14.89,44.00,1,2,1
+2017.00,Honduras,Mexico,44,-8.54,-13.00,1,3,2
+2017.00,Hungary,Faroe Islands,-45,11.24,31.00,1,1,0
+2017.00,Luxembourg,Bulgaria,30,-3.97,-9.00,0,1,1
+2017.00,Netherlands,Sweden,-4,5.65,32.00,2,2,0
+2017.00,Panama,Costa Rica,30,-7.27,-11.00,1,2,1
+2017.00,Paraguay,Venezuela,-6,0.72,-1.00,-1,0,1
+2017.00,Peru,Colombia,-5,-6.63,-16.00,0,1,1
+2017.00,Portugal,Switzerland,-2,4.90,10.00,2,2,0
+2017.00,Uruguay,Bolivia,-40,15.18,32.00,2,4,2
+2017.00,Croatia,Greece,-26,4.72,-7.00,3,4,1
+2017.00,Northern Ireland,Switzerland,21,-5.90,-24.00,-1,0,1
+2017.00,Algeria,Nigeria,17,3.36,-2.00,0,1,1
+2017.00,Honduras,Australia,19,-3.18,-43.00,0,0,0
+2017.00,South Africa,Senegal,44,-5.81,11.00,-2,0,2
+2017.00,Sweden,Italy,3,-7.46,-14.00,1,1,0
+2017.00,Gabon,Mali,23,-1.90,-11.00,0,0,0
+2017.00,Tunisia,Libya,-86,4.31,33.00,0,0,0
+2017.00,Zambia,Cameroon,28,-13.40,4.00,0,2,2
+2017.00,Congo,Uganda,15,2.97,10.00,0,1,1
+2017.00,Ghana,Egypt,5,2.36,5.00,0,1,1
+2017.00,Greece,Croatia,26,-4.72,7.00,0,0,0
+2017.00,Switzerland,Northern Ireland,-21,5.90,24.00,0,0,0
+2017.00,Italy,Sweden,-3,7.46,14.00,0,0,0
+2017.00,Senegal,South Africa,-44,5.81,-11.00,1,2,1
+2017.00,Australia,Honduras,-19,3.18,43.00,2,3,1
+2008.00,Zambia,Tunisia,64,1.68,-10.00,1,2,1
+2008.00,Zambia,Tunisia,64,1.68,-10.00,-1,0,1
+2008.00,Mali,Egypt,21,-0.79,-21.00,-1,0,1
+2008.00,Zambia,Morocco,36,-3.55,9.00,-2,0,2
+2008.00,Sweden,Costa Rica,-2,-3.81,0.00,1,1,0
+2008.00,Senegal,Benin,-56,-4.17,30.00,1,2,1
+2008.00,Chile,Japan,-51,4.00,-15.00,0,0,0
+2008.00,Costa Rica,Iran,-11,-5.85,-21.00,0,0,0
+2008.00,Chile,Korea Republic,-52,4.27,-17.00,1,1,0
+2008.00,Germany,Austria,-25,7.45,64.00,3,3,0
+2008.00,Peru,Bolivia,-46,-2.07,5.00,-1,1,2
+2008.00,Netherlands,Croatia,1,-5.28,32.00,3,3,0
+2008.00,Ukraine,Cyprus,-56,0.63,18.00,0,1,1
+2008.00,Poland,Czech Republic,-35,2.72,14.00,2,2,0
+2008.00,Switzerland,England,-7,3.27,-4.00,-1,1,2
+2008.00,Finland,Greece,18,-3.36,-36.00,-1,1,2
+2008.00,Paraguay,Honduras,-26,-0.90,-16.00,-2,0,2
+2008.00,Slovakia,Hungary,-20,-4.90,0.00,0,1,1
+2008.00,Romania,Israel,-67,-5.09,9.00,-1,0,1
+2008.00,Portugal,Italy,-16,0.78,0.00,-2,1,3
+2008.00,Costa Rica,Jamaica,-27,3.27,11.00,0,1,1
+2008.00,Bulgaria,Northern Ireland,26,8.81,-1.00,1,1,0
+2008.00,Denmark,Slovenia,-53,-1.67,10.00,1,2,1
+2008.00,France,Spain,-1,4.09,-10.00,-1,0,1
+2008.00,Sweden,Turkey,-14,-5.36,13.00,0,0,0
+2008.00,Colombia,Uruguay,-1,1.72,-11.00,0,2,2
+2008.00,Norway,Wales,27,0.45,-16.00,-3,0,3
+2008.00,Estonia,Poland,83,2.67,-28.00,-2,0,2
+2008.00,Faroe Islands,Iceland,72,-7.51,-39.00,-3,0,3
+2008.00,El Salvador,Venezuela,46,-5.24,7.00,-1,0,1
+2008.00,Turkey,Belarus,-42,0.00,16.00,0,2,2
+2008.00,Sweden,Brazil,21,-7.81,2.00,-1,0,1
+2008.00,Finland,Bulgaria,9,1.18,-8.00,-1,1,2
+2008.00,Czech Republic,Denmark,33,-8.59,-10.00,0,1,1
+2008.00,Argentina,Egypt,-41,3.71,9.00,2,2,0
+2008.00,Canada,Estonia,-13,0.59,6.00,-2,0,2
+2008.00,England,France,6,-9.54,-7.00,-1,0,1
+2008.00,Mexico,Ghana,-36,-4.00,-1.00,1,2,1
+2008.00,Colombia,Honduras,-43,1.90,9.00,-1,1,2
+2008.00,Slovenia,Hungary,16,-0.09,-5.00,1,1,0
+2008.00,Chile,Israel,-90,0.36,33.00,-1,0,1
+2008.00,Wales,Luxembourg,-62,-3.36,21.00,2,2,0
+2008.00,Norway,Montenegro,5,-9.90,-13.00,-2,1,3
+2008.00,Costa Rica,Peru,14,-1.18,7.00,-2,1,3
+2008.00,Greece,Portugal,40,0.30,-7.00,1,2,1
+2008.00,Russia,Romania,34,1.36,-4.00,-3,0,3
+2008.00,Croatia,Scotland,-16,9.09,26.00,0,1,1
+2008.00,Iceland,Slovakia,-7,1.72,8.00,1,2,1
+2008.00,Paraguay,South Africa,-39,4.27,-23.00,-3,0,3
+2008.00,Italy,Spain,12,5.09,-11.00,-1,0,1
+2008.00,Serbia,Ukraine,5,-1.09,-2.00,-2,0,2
+2008.00,Bolivia,Venezuela,18,1.21,3.00,1,1,0
+2008.00,Oman,Syria,11,8.16,17.00,-1,1,2
+2008.00,Iraq,Syria,15,-2.58,18.00,-1,1,2
+2008.00,Cyprus,Greece,42,-3.63,-39.00,-2,0,2
+2008.00,Slovakia,Turkey,-8,-2.63,3.00,-1,0,1
+2008.00,Ghana,Australia,11,3.22,-29.00,-1,0,1
+2008.00,Greece,Hungary,-5,1.27,17.00,-1,2,3
+2008.00,Ukraine,Netherlands,11,2.46,-46.00,-3,0,3
+2008.00,Slovakia,Switzerland,23,2.18,-14.00,-2,0,2
+2008.00,Zambia,Iran,42,-6.25,-23.00,-1,2,3
+2008.00,Uruguay,Turkey,-20,0.90,33.00,1,3,2
+2008.00,Slovenia,Sweden,42,7.54,-15.00,-1,0,1
+2008.00,Poland,Albania,-46,-6.00,26.00,1,1,0
+2008.00,Nigeria,Austria,21,5.09,19.00,0,1,1
+2008.00,Georgia,Estonia,2,2.50,-3.00,0,1,1
+2008.00,Ecuador,France,56,-0.81,-15.00,-2,0,2
+2008.00,Belarus,Germany,78,0.81,-77.00,0,2,2
+2008.00,Wales,Iceland,-1,-9.54,-7.00,1,1,0
+2008.00,Uruguay,Norway,-31,10.90,45.00,0,2,2
+2008.00,Serbia,Russia,-31,3.09,0.00,-1,1,2
+2008.00,Turkey,Finland,-25,-0.18,16.00,2,2,0
+2008.00,Denmark,Netherlands,-7,2.43,-37.00,0,1,1
+2008.00,Scotland,Czech Republic,-11,2.36,-11.00,-2,1,3
+2008.00,Belgium,Italy,-17,1.45,-7.00,-2,1,3
+2008.00,Honduras,Venezuela,20,0.23,15.00,0,1,1
+2008.00,Canada,Brazil,78,-4.54,-21.00,-1,2,3
+2008.00,Paraguay,France,26,-1.63,-31.00,0,0,0
+2008.00,Serbia,Germany,34,0.27,-64.00,-1,1,2
+2008.00,Croatia,Hungary,-31,1.09,10.00,0,1,1
+2008.00,Georgia,Portugal,91,-3.42,-46.00,-2,0,2
+2008.00,Peru,Spain,3,2.27,-32.00,-1,1,2
+2008.00,Greece,Armenia,-54,5.30,31.00,0,0,0
+2008.00,Wales,Netherlands,2,-8.53,-41.00,-2,0,2
+2008.00,Denmark,Poland,2,5.87,-4.00,0,1,1
+2008.00,Ukraine,Sweden,7,5.90,-14.00,1,1,0
+2008.00,Belarus,Finland,17,-0.18,0.00,0,1,1
+2008.00,Colombia,France,9,1.18,-6.00,-1,0,1
+2008.00,Canada,Panama,25,-3.00,-12.00,0,2,2
+2008.00,Venezuela,Brazil,37,-1.96,-13.00,2,2,0
+2008.00,Panama,Chile,46,0.45,-23.00,0,0,0
+2008.00,Jamaica,El Salvador,-33,-0.06,-3.00,0,0,0
+2008.00,South Africa,Australia,32,0.13,-36.00,0,2,2
+2008.00,Mali,Gabon,-23,-0.63,11.00,-1,0,1
+2008.00,Argentina,Belarus,-74,2.50,47.00,0,0,0
+2008.00,Panama,Bolivia,-2,-0.79,1.00,-1,0,1
+2008.00,Ecuador,Colombia,47,-2.00,-9.00,1,1,0
+2008.00,Spain,Denmark,-4,-3.14,30.00,3,3,0
+2008.00,Czech Republic,England,32,0.00,-23.00,0,2,2
+2008.00,Israel,Finland,37,-0.09,8.00,-2,0,2
+2008.00,Belgium,Germany,2,4.72,-41.00,-2,0,2
+2008.00,Montenegro,Hungary,-6,-2.36,-2.00,0,3,3
+2008.00,Austria,Italy,6,-10.72,-30.00,0,2,2
+2008.00,Uruguay,Japan,-43,4.45,-7.00,2,3,1
+2008.00,Benin,Morocco,42,-2.07,-23.00,-2,1,3
+2008.00,Uzbekistan,Oman,1,-8.00,13.00,-2,0,2
+2008.00,Netherlands,Russia,-47,1.71,48.00,0,1,1
+2008.00,Northern Ireland,Scotland,-7,-4.09,6.00,0,0,0
+2008.00,Greece,Slovakia,15,6.18,17.00,2,2,0
+2008.00,Croatia,Slovenia,-47,1.18,15.00,1,3,2
+2008.00,France,Sweden,-16,6.81,15.00,1,3,2
+2008.00,Chile,Turkey,-28,0.45,25.00,-1,0,1
+2008.00,Poland,Ukraine,-20,-5.90,13.00,-1,0,1
+2008.00,Georgia,Wales,74,10.27,-23.00,1,2,1
+2008.00,Australia,Netherlands,21,-2.66,11.00,1,2,1
+2008.00,Morocco,Oman,-45,-3.80,-9.00,0,0,0
+2008.00,Guinea,South Africa,-2,1.27,-28.00,1,1,0
+2008.00,Chile,Mexico,-6,5.81,-1.00,1,1,0
+2008.00,Uzbekistan,Korea Republic,27,1.22,-18.00,-3,0,3
+2008.00,Tunisia,France,7,-5.09,-7.00,-2,1,3
+2008.00,Ghana,South Africa,-21,3.09,7.00,-1,1,2
+2008.00,El Salvador,Bolivia,28,-6.46,4.00,2,2,0
+2008.00,Ecuador,Mexico,48,6.00,-13.00,-1,1,2
+2008.00,Syria,Japan,16,0.78,-46.00,-2,1,3
+2008.00,Mali,Algeria,3,3.00,-13.00,0,1,1
+2008.00,Guinea,Gabon,-20,-1.81,2.00,0,3,3
+2008.00,Nigeria,Colombia,31,-5.81,-6.00,-1,0,1
+2008.00,Belarus,Cyprus,-7,0.09,3.00,-1,1,2
+2008.00,Wales,Denmark,9,-10.96,-4.00,1,1,0
+2008.00,Uruguay,France,10,-0.54,5.00,0,0,0
+2008.00,England,Germany,12,-7.27,-40.00,1,2,1
+2008.00,Tunisia,Ghana,-37,-2.27,-6.00,0,0,0
+2008.00,Italy,Greece,-24,-1.09,7.00,0,1,1
+2008.00,Belgium,Luxembourg,-80,11.00,37.00,0,1,1
+2008.00,Zambia,Morocco,36,-3.55,9.00,-3,0,3
+2008.00,Sweden,Netherlands,4,-3.43,-32.00,-2,1,3
+2008.00,Hungary,Northern Ireland,22,12.09,10.00,2,2,0
+2008.00,Paraguay,Oman,-54,-5.59,-14.00,1,1,0
+2008.00,Georgia,Romania,63,4.81,-20.00,-1,1,2
+2008.00,Argentina,Scotland,-29,8.23,44.00,1,1,0
+2008.00,Cameroon,South Africa,-22,5.16,-13.00,-1,2,3
+2008.00,Chile,Spain,1,3.09,-13.00,-3,0,3
+2008.00,Finland,Switzerland,56,4.99,-33.00,-1,0,1
+2008.00,Norway,Ukraine,18,-10.54,-11.00,-1,0,1
+2008.00,Poland,Serbia,-25,-4.81,15.00,1,1,0
+2008.00,Ecuador,Iran,27,-3.67,-21.00,1,1,0
+2008.00,Ecuador,Oman,-24,-4.77,2.00,-2,0,2
+2010.00,Nigeria,Egypt,1,-1.97,-6.00,-2,1,3
+2010.00,Gabon,Cameroon,40,-2.07,-17.00,1,1,0
+2010.00,Tunisia,Zambia,-64,-1.68,10.00,0,1,1
+2010.00,Algeria,Mali,-3,-3.00,13.00,1,1,0
+2010.00,Benin,Nigeria,37,2.71,-37.00,-1,0,1
+2010.00,Zambia,Cameroon,28,-2.65,4.00,-1,2,3
+2010.00,Tunisia,Gabon,-76,-2.27,31.00,0,0,0
+2010.00,Ghana,Burkina Faso,-3,1.09,20.00,1,1,0
+2010.00,Benin,Egypt,38,0.73,-43.00,-2,0,2
+2010.00,Tunisia,Cameroon,-36,-4.34,14.00,0,2,2
+2010.00,Zambia,Gabon,-12,-0.58,21.00,1,2,1
+2010.00,Cameroon,Egypt,4,1.91,-15.00,-2,1,3
+2010.00,Nigeria,Zambia,-31,-1.23,5.00,0,0,0
+2010.00,Egypt,Algeria,-18,3.79,8.00,3,4,0
+2010.00,Nigeria,Ghana,-4,-1.81,-11.00,-1,0,1
+2010.00,Algeria,Nigeria,17,-1.81,-2.00,-1,0,1
+2010.00,Egypt,Ghana,-5,0.16,-5.00,1,1,0
+2010.00,Mexico,South Africa,-57,-0.90,6.00,0,1,1
+2010.00,France,Uruguay,-10,0.54,-5.00,0,0,0
+2010.00,Nigeria,Argentina,42,-5.69,-15.00,-1,0,1
+2010.00,Greece,Korea Republic,-17,7.36,-22.00,-2,0,2
+2010.00,Slovenia,Algeria,1,7.18,-16.00,1,1,0
+2010.00,Australia,Germany,39,-3.77,-5.00,-3,0,4
+2010.00,Ghana,Serbia,16,-0.81,30.00,1,1,0
+2010.00,Paraguay,Italy,13,-2.63,-30.00,0,1,1
+2010.00,Cameroon,Japan,-10,4.25,-33.00,-1,0,1
+2010.00,Denmark,Netherlands,-7,2.43,-37.00,-2,0,2
+2010.00,Chile,Honduras,-50,-0.27,12.00,1,1,0
+2010.00,Uruguay,South Africa,-55,5.36,13.00,3,3,0
+2010.00,Switzerland,Spain,-2,-2.18,-21.00,1,1,0
+2010.00,Korea Republic,Argentina,56,-6.32,11.00,-3,1,4
 2010.00,Mexico,France,8,-6.81,-2.00,2,2,0
-2010.00,Serbia,Germany,34,0.27,-32.00,1,1,0
-2010.00,Uruguay,Mexico,2,6.27,6.00,1,1,0
-2010.00,Korea Republic,Nigeria,14,-0.63,3.00,0,2,2
-2010.00,Serbia,Australia,9,4.04,-4.00,-1,1,2
-2010.00,Japan,Denmark,48,-4.05,3.00,2,3,1
-2010.00,Brazil,Portugal,-2,-0.78,9.00,0,0,0
-2010.00,Korea Republic,Uruguay,44,-4.72,-6.00,-1,1,2
-2010.00,Mexico,Argentina,10,-7.87,-9.00,-2,1,3
-2010.00,England,Germany,12,-7.27,-29.00,-3,1,4
-2010.00,Portugal,Spain,-4,5.87,-1.00,-1,0,1
-2010.00,Germany,Argentina,-4,-3.32,16.00,3,4,0
-2010.00,Spain,Germany,7,-1.81,-22.00,1,1,0
-2010.00,Germany,Uruguay,-16,-1.72,19.00,1,3,2
-2014.00,Croatia,Brazil,16,-1.18,-14.00,-2,1,3
-2014.00,Costa Rica,Uruguay,8,-6.27,-10.00,2,3,1
-2014.00,Portugal,Germany,3,-5.72,-23.00,-3,0,4
-2014.00,Nigeria,Iran,11,3.48,5.00,0,0,0
-2014.00,Mexico,Brazil,13,-5.45,-11.00,0,0,0
-2014.00,Korea Republic,Russia,-5,-0.96,7.00,0,1,1
-2014.00,England,Uruguay,-4,0.45,-10.00,-1,1,2
-2014.00,France,Switzerland,1,2.64,3.00,3,5,2
-2014.00,Iran,Argentina,31,-10.23,-17.00,-1,0,1
-2014.00,Russia,Belgium,63,-10.49,-4.00,-1,0,1
-2014.00,Spain,Australia,-18,13.45,6.00,3,3,0
-2014.00,Mexico,Croatia,-3,-4.27,3.00,2,3,1
-2014.00,England,Costa Rica,-12,6.72,0.00,0,0,0
-2014.00,Colombia,Japan,-44,5.81,6.00,3,4,1
-2014.00,Argentina,Nigeria,-42,6.75,12.00,1,3,2
-2014.00,Belgium,Korea Republic,-58,11.45,-3.00,1,1,0
-2014.00,Uruguay,Colombia,1,0.00,3.00,-2,0,2
-2014.00,Nigeria,France,40,-4.54,-5.00,-2,0,2
-2014.00,Switzerland,Argentina,1,-4.84,-10.00,-1,0,1
-2014.00,Colombia,Brazil,14,-3.45,-8.00,-1,1,2
-2014.00,Germany,France,-6,6.53,23.00,1,1,0
-2014.00,Belgium,Argentina,-2,2.96,-12.00,-1,0,1
-2014.00,Germany,Brazil,-1,2.81,14.00,3,7,1
-2014.00,Argentina,Germany,4,-4.33,-16.00,-1,0,1
+2010.00,Nigeria,Greece,3,-6.72,-4.00,-1,1,2
+2010.00,Algeria,England,51,3.09,-7.00,0,0,0
+2010.00,Serbia,Germany,34,0.27,-64.00,1,1,0
+2010.00,Denmark,Cameroon,-38,-0.20,1.00,1,2,1
+2010.00,Australia,Ghana,-11,-3.22,29.00,0,1,1
+2010.00,Japan,Netherlands,41,-1.62,-5.00,-1,0,1
+2010.00,Paraguay,Slovakia,4,2.45,-6.00,2,2,0
+2010.00,Switzerland,Chile,-3,-5.27,-8.00,-1,0,1
+2010.00,Honduras,Spain,51,3.36,-25.00,-2,0,2
+2010.00,Argentina,Greece,-39,-1.03,11.00,2,2,0
+2010.00,Uruguay,Mexico,2,6.27,7.00,1,1,0
+2010.00,Korea Republic,Nigeria,14,-0.63,26.00,0,2,2
+2010.00,France,South Africa,-65,5.90,8.00,-1,1,2
+2010.00,Serbia,Australia,-5,4.04,-59.00,-1,1,2
+2010.00,Germany,Ghana,-50,0.54,34.00,1,1,0
+2010.00,England,Slovenia,-52,-10.27,23.00,1,1,0
+2010.00,Netherlands,Cameroon,-31,-2.63,38.00,1,2,1
+2010.00,Japan,Denmark,48,-4.05,32.00,2,3,1
+2010.00,Italy,Slovakia,-9,5.09,24.00,-1,2,3
+2010.00,Spain,Chile,-1,-3.09,13.00,1,2,1
+2010.00,Brazil,Portugal,-2,-0.78,-16.00,0,0,0
+2010.00,Honduras,Switzerland,53,5.54,-4.00,0,0,0
+2010.00,Korea Republic,Uruguay,44,-4.72,9.00,-1,1,2
+2010.00,Mexico,Argentina,10,-7.87,-5.00,-2,1,3
+2010.00,England,Germany,12,-7.27,-40.00,-3,1,4
+2010.00,Chile,Brazil,7,-2.00,14.00,-3,0,3
+2010.00,Slovakia,Netherlands,10,-0.71,-42.00,-1,1,2
+2010.00,Japan,Paraguay,27,-3.36,43.00,0,0,0
+2010.00,Portugal,Spain,-4,5.87,-11.00,-1,0,1
+2010.00,Brazil,Netherlands,-17,4.37,-34.00,-1,1,2
+2010.00,Ghana,Uruguay,34,-2.27,-6.00,0,1,1
+2010.00,Germany,Argentina,-4,-3.32,30.00,3,4,0
+2010.00,Spain,Paraguay,-25,-2.45,41.00,1,1,0
+2010.00,Netherlands,Uruguay,2,-2.83,12.00,1,3,2
+2010.00,Spain,Germany,7,-1.81,-23.00,1,1,0
+2010.00,Germany,Uruguay,-16,-1.72,28.00,1,3,2
+2010.00,Spain,Netherlands,-11,-0.71,-7.00,1,1,0
+2011.00,Iran,Iraq,-55,9.65,22.00,1,2,1
+2011.00,Japan,Syria,-16,-0.78,46.00,1,2,1
+2011.00,Korea Republic,Australia,21,0.77,-14.00,0,1,1
+2011.00,Iraq,Australia,51,-0.75,-44.00,-1,0,1
+2011.00,Korea Republic,Iran,25,-8.12,8.00,1,1,0
+2011.00,Korea Republic,Japan,1,-0.27,2.00,0,2,2
+2011.00,Korea Republic,Uzbekistan,-27,-1.22,18.00,1,3,2
+2011.00,Japan,Australia,20,1.04,-16.00,1,1,0
+2011.00,Japan,Uzbekistan,-28,-0.95,16.00,0,1,1
+2011.00,Chile,Argentina,4,-2.05,-6.00,-3,1,4
+2011.00,Venezuela,Ecuador,-24,-0.14,-15.00,-2,0,2
+2011.00,Paraguay,Peru,22,0.18,-9.00,-2,0,2
+2011.00,Bolivia,Uruguay,40,0.79,-32.00,-2,2,4
+2011.00,Oman,Australia,47,10.00,-45.00,-3,0,3
+2011.00,Colombia,Bolivia,-41,0.92,21.00,1,2,1
+2011.00,Peru,Chile,2,-0.81,-19.00,-2,2,4
+2011.00,Uruguay,Paraguay,-16,1.09,36.00,0,1,1
+2011.00,Argentina,Venezuela,-34,2.01,33.00,-1,0,1
+2011.00,Bolivia,Argentina,52,-0.79,-30.00,0,1,1
+2011.00,Venezuela,Colombia,23,-2.14,-24.00,0,1,1
+2011.00,Australia,Oman,-47,-10.00,45.00,-1,0,1
+2011.00,Ecuador,Paraguay,30,0.81,16.00,-1,1,2
+2011.00,Chile,Uruguay,-8,-0.45,-8.00,-3,0,4
+2011.00,Paraguay,Chile,24,-0.63,-28.00,-2,0,2
+2011.00,Argentina,Colombia,-11,-0.12,9.00,1,2,1
+2011.00,Peru,Ecuador,-52,-1.00,-7.00,-2,0,2
+2011.00,Korea Republic,Lebanon,-21,2.77,52.00,-1,1,2
+2011.00,Bolivia,Venezuela,18,1.21,3.00,-1,0,1
+2012.00,Zambia,Senegal,50,-9.10,2.00,1,2,1
+2012.00,Tunisia,Morocco,-28,-4.18,19.00,1,2,1
+2012.00,Guinea,Mali,3,1.00,-9.00,-1,0,1
+2012.00,Zambia,Libya,-22,1.16,23.00,0,2,2
+2012.00,Morocco,Gabon,-48,6.63,12.00,-1,2,3
+2012.00,Mali,Ghana,16,-4.72,-26.00,-2,0,2
+2012.00,Senegal,Libya,-72,10.27,21.00,-1,1,2
+2012.00,Tunisia,Gabon,-76,2.45,31.00,-1,0,1
+2012.00,Guinea,Ghana,19,-3.72,-35.00,0,1,1
+2012.00,Mali,Gabon,-23,1.09,11.00,0,1,1
+2012.00,Tunisia,Ghana,-37,-3.36,-6.00,-1,1,2
+2012.00,Ghana,Zambia,-27,8.92,16.00,-1,0,1
+2012.00,Mali,Ghana,16,-4.72,-26.00,2,2,0
+2012.00,Saudi Arabia,Australia,28,-3.09,-38.00,-2,2,4
+2012.00,Uzbekistan,Japan,28,-0.15,-16.00,1,1,0
+2012.00,Ecuador,Argentina,58,-8.03,-18.00,-3,0,4
+2012.00,Chile,Bolivia,-48,11.90,24.00,2,2,0
+2012.00,Congo,Burkina Faso,35,-5.45,-18.00,3,3,0
+2012.00,Venezuela,Uruguay,22,-5.00,-35.00,0,1,1
+2012.00,Mali,Benin,-17,2.54,22.00,-1,0,1
+2012.00,Oman,Japan,27,-2.90,-29.00,-3,0,3
+2012.00,Colombia,Peru,5,5.90,16.00,1,1,0
+2012.00,Iran,Uzbekistan,-52,-2.32,10.00,1,1,0
+2012.00,El Salvador,Costa Rica,60,-17.95,-8.00,0,2,2
+2012.00,Panama,Honduras,-4,-0.18,-11.00,2,2,0
+2012.00,Uzbekistan,Lebanon,6,12.55,34.00,0,1,1
+2012.00,Australia,Oman,-47,1.90,45.00,0,0,0
+2012.00,Greece,Poland,34,-0.72,8.00,0,1,1
+2012.00,Czech Republic,Russia,-21,-0.50,1.00,-3,1,4
+2012.00,Paraguay,Bolivia,-24,5.90,-4.00,-2,1,3
+2012.00,Burkina Faso,Gabon,-36,1.72,17.00,-1,0,1
+2012.00,Portugal,Germany,3,-5.72,-34.00,-1,0,1
+2012.00,Denmark,Netherlands,-7,-0.54,-37.00,1,1,0
+2012.00,Senegal,Uganda,-46,9.60,30.00,0,1,1
+2012.00,Chile,Venezuela,-30,3.63,27.00,2,2,0
+2012.00,Ghana,Zambia,-27,8.92,16.00,-1,0,1
+2012.00,Colombia,Ecuador,-47,6.09,9.00,-1,0,1
+2012.00,Egypt,Guinea,-24,1.63,30.00,1,3,2
+2012.00,Cameroon,Libya,-50,11.36,19.00,-1,1,2
+2012.00,Algeria,Mali,-3,5.63,13.00,-1,1,2
+2012.00,Italy,Spain,12,-5.54,-11.00,0,1,1
+2012.00,Peru,Uruguay,-6,-5.90,-27.00,-2,2,4
+2012.00,England,France,6,0.72,-7.00,0,1,1
+2012.00,Sweden,Ukraine,-7,1.36,14.00,-1,1,2
+2012.00,Japan,Australia,20,1.00,-16.00,0,1,1
+2012.00,Honduras,Canada,-21,0.54,23.00,0,0,0
+2012.00,Mexico,El Salvador,-70,22.22,21.00,1,2,1
+2012.00,Czech Republic,Greece,1,-2.45,-22.00,1,2,1
+2012.00,Oman,Iraq,-4,7.00,-1.00,0,1,1
+2012.00,Lebanon,Korea Republic,21,-11.98,-52.00,-3,0,3
+2012.00,Russia,Poland,56,-2.67,-15.00,0,1,1
+2012.00,Portugal,Denmark,-8,3.54,19.00,1,3,2
+2012.00,Germany,Netherlands,-18,8.72,16.00,1,2,1
+2012.00,Croatia,Italy,-2,1.18,-14.00,0,1,1
+2012.00,England,Sweden,-10,3.72,8.00,1,3,2
+2012.00,France,Ukraine,-23,4.37,29.00,2,2,0
+2012.00,Russia,Greece,22,-1.94,-23.00,-1,0,1
+2012.00,Czech Republic,Poland,35,-3.18,-14.00,1,1,0
+2012.00,Germany,Denmark,-11,9.27,53.00,1,2,1
+2012.00,Netherlands,Portugal,15,-3.00,18.00,-1,1,2
+2012.00,Spain,Croatia,-10,4.36,25.00,1,1,0
+2012.00,France,Sweden,-16,3.00,15.00,-2,0,2
+2012.00,England,Ukraine,-17,5.09,22.00,1,1,0
+2012.00,Portugal,Czech Republic,-41,6.63,29.00,1,1,0
+2012.00,Greece,Germany,43,-9.90,-41.00,-2,2,4
+2012.00,France,Spain,-1,-6.90,-10.00,-2,0,2
+2012.00,Italy,England,7,0.63,6.00,0,0,0
+2012.00,Spain,Portugal,4,6.09,11.00,0,0,0
+2012.00,Italy,Germany,19,-5.18,-34.00,1,2,1
+2012.00,Italy,Spain,12,-5.54,-11.00,-3,0,4
+2012.00,Cyprus,Albania,30,-1.79,-5.00,-2,1,3
+2012.00,Paraguay,Argentina,28,-9.30,-34.00,-2,1,3
+2012.00,Italy,Bulgaria,-33,10.72,35.00,0,2,2
+2012.00,Panama,Canada,-25,0.36,12.00,-1,0,1
+2012.00,Uruguay,Colombia,1,0.00,11.00,-3,0,4
+2012.00,Mexico,Costa Rica,-10,4.27,13.00,2,2,0
+2012.00,Bolivia,Ecuador,-6,-7.18,-12.00,-1,0,1
+2012.00,Romania,Estonia,-61,7.36,17.00,2,2,0
+2012.00,France,Finland,-55,5.91,44.00,1,1,0
+2012.00,Belarus,Georgia,-16,-2.95,3.00,-1,0,1
+2012.00,Faroe Islands,Germany,93,-25.40,-89.00,-3,0,3
+2012.00,Norway,Iceland,26,-0.72,-23.00,-2,0,2
+2012.00,Portugal,Luxembourg,-79,15.07,44.00,1,2,1
+2012.00,Poland,Montenegro,-33,5.09,11.00,0,2,2
+2012.00,Turkey,Netherlands,18,-1.09,-45.00,-2,0,2
+2012.00,Venezuela,Peru,28,0.90,-8.00,-1,1,2
+2012.00,Northern Ireland,Russia,-39,-3.68,-4.00,-2,0,2
+2012.00,Switzerland,Slovenia,-59,-1.00,19.00,2,2,0
+2012.00,Belgium,Wales,-18,8.63,16.00,2,2,0
+2012.00,Czech Republic,Denmark,33,-3.09,-10.00,0,0,0
+2012.00,Serbia,Scotland,1,6.36,10.00,0,0,0
+2012.00,Germany,Austria,-25,9.54,64.00,1,2,1
+2012.00,Croatia,Belgium,15,-2.63,-7.00,0,1,1
+2012.00,Armenia,Bulgaria,45,-0.09,-3.00,-1,0,1
+2012.00,Colombia,Chile,7,1.36,-3.00,2,3,1
+2012.00,Iceland,Cyprus,-64,5.84,30.00,-1,0,1
+2012.00,Ukraine,England,17,-5.09,-22.00,0,1,1
+2012.00,Belarus,France,72,-11.91,-44.00,-2,1,3
+2012.00,Spain,Georgia,-87,15.86,57.00,1,1,0
+2012.00,Netherlands,Hungary,-30,5.37,42.00,3,4,1
+2012.00,Russia,Israel,-33,1.96,5.00,3,4,0
+2012.00,Iraq,Japan,31,-9.90,-28.00,-1,0,1
+2012.00,Iran,Lebanon,-46,10.22,44.00,-1,0,1
+2012.00,Costa Rica,Mexico,10,-4.27,-13.00,-1,0,1
+2012.00,Luxembourg,Northern Ireland,56,-5.25,-10.00,0,1,1
+2012.00,Slovenia,Norway,17,6.36,10.00,-1,1,2
+2012.00,Canada,Panama,25,-0.36,-12.00,-2,0,2
+2012.00,Venezuela,Paraguay,6,2.36,1.00,2,2,0
+2012.00,Argentina,Peru,-6,7.84,25.00,0,1,1
+2012.00,Albania,Switzerland,50,-8.69,-31.00,-2,0,2
+2012.00,Estonia,Turkey,56,-11.18,-16.00,-3,0,3
+2012.00,Ecuador,Uruguay,46,-6.09,-20.00,0,1,1
+2012.00,Korea Republic,Uzbekistan,-27,-0.56,18.00,0,2,2
+2012.00,Iceland,Albania,-34,4.05,25.00,1,2,1
+2012.00,Uruguay,Argentina,12,-1.93,2.00,-3,0,3
+2012.00,Italy,Armenia,-78,10.81,38.00,2,3,1
+2012.00,Spain,Belarus,-71,18.81,54.00,3,4,0
+2012.00,Peru,Bolivia,-46,7.36,5.00,0,1,1
+2012.00,Denmark,Bulgaria,-41,6.63,16.00,0,1,1
+2012.00,Paraguay,Colombia,17,-7.36,-25.00,-2,0,2
+2012.00,Chile,Ecuador,-54,4.72,12.00,-2,1,3
+2012.00,Costa Rica,El Salvador,-60,17.95,8.00,1,1,0
+2012.00,Hungary,Estonia,-44,6.90,19.00,1,1,0
+2012.00,Sweden,Faroe Islands,-71,15.85,41.00,1,2,1
+2012.00,Georgia,Finland,33,-3.04,-3.00,0,1,1
+2012.00,Honduras,Panama,4,0.18,11.00,0,0,0
+2012.00,Portugal,Russia,-62,6.12,30.00,-1,0,1
+2012.00,Belgium,Serbia,-32,5.90,23.00,3,3,0
+2012.00,Cyprus,Slovenia,21,-11.48,-17.00,-1,1,2
+2012.00,Norway,Switzerland,42,-5.36,-29.00,0,1,1
+2012.00,Romania,Turkey,-5,-3.81,1.00,1,1,0
+2012.00,Scotland,Wales,13,-3.63,-17.00,-1,1,2
+2012.00,Slovenia,Albania,9,9.69,12.00,-1,0,1
+2012.00,Georgia,Belarus,16,2.95,-3.00,-2,0,2
+2012.00,Scotland,Belgium,31,-12.27,-33.00,-2,0,2
+2012.00,Uruguay,Bolivia,-40,13.27,32.00,-3,1,4
+2012.00,Argentina,Chile,-4,3.30,6.00,1,2,1
+2012.00,Wales,Croatia,3,-6.00,-9.00,-2,0,2
+2012.00,Norway,Cyprus,-38,5.12,7.00,2,3,1
+2012.00,Bulgaria,Czech Republic,8,-3.54,-6.00,0,0,0
+2012.00,Sweden,Germany,22,-9.54,-48.00,0,4,4
+2012.00,Turkey,Hungary,-12,4.28,-3.00,-2,1,3
+2012.00,Switzerland,Iceland,-16,4.63,6.00,2,2,0
+2012.00,Korea Republic,Iran,25,1.75,8.00,-1,0,1
+2012.00,Australia,Iraq,-51,8.90,44.00,1,2,1
+2012.00,Luxembourg,Israel,-16,-6.98,-9.00,-3,0,3
+2012.00,Denmark,Italy,-8,-4.09,-19.00,-2,1,3
+2012.00,El Salvador,Mexico,70,-22.22,-21.00,-2,0,2
+2012.00,Peru,Paraguay,-22,1.45,9.00,-1,0,1
+2012.00,Northern Ireland,Portugal,23,-9.81,-34.00,0,1,1
+2012.00,Netherlands,Romania,-13,4.90,44.00,3,4,1
+2012.00,Greece,Slovakia,15,1.36,17.00,1,1,0
+2012.00,France,Spain,-1,-6.90,-10.00,0,1,1
+2012.00,Montenegro,Ukraine,13,-3.36,2.00,1,1,0
+2012.00,Ecuador,Venezuela,24,-1.09,15.00,0,0,0
+2012.00,England,Poland,3,3.36,9.00,0,1,1
+2012.00,Uzbekistan,Iran,52,2.32,-10.00,1,1,0
+2012.00,Japan,Oman,-27,2.90,29.00,1,2,1
+2013.00,Burkina Faso,Nigeria,7,-3.91,-9.00,0,1,1
+2013.00,Algeria,Tunisia,50,4.27,-7.00,-1,0,1
+2013.00,Mali,Ghana,16,-4.72,-26.00,-1,0,1
+2013.00,Nigeria,Zambia,-31,8.75,5.00,0,1,1
+2013.00,Morocco,South Africa,-30,3.45,-18.00,0,2,2
+2013.00,Zambia,Burkina Faso,24,-4.83,4.00,0,0,0
+2013.00,Mali,South Africa,-5,-2.09,-19.00,0,1,1
+2013.00,Ghana,Burkina Faso,-3,4.09,20.00,0,1,1
+2013.00,Nigeria,Mali,-20,4.55,15.00,3,4,1
+2013.00,Jamaica,Mexico,37,-10.09,-24.00,0,0,0
+2013.00,Costa Rica,Panama,-30,6.36,11.00,0,2,2
+2013.00,Ghana,Mali,-16,4.72,26.00,-2,1,3
+2013.00,Burkina Faso,Nigeria,7,-3.91,-9.00,-1,0,1
+2013.00,Venezuela,Argentina,34,-6.93,-33.00,-3,0,3
+2013.00,Serbia,Croatia,17,-3.27,-16.00,-2,0,2
+2013.00,Denmark,Czech Republic,-33,3.09,10.00,3,3,0
+2013.00,Georgia,France,88,-8.96,-47.00,-2,1,3
+2013.00,Mexico,Honduras,-44,10.45,13.00,0,2,2
+2013.00,Romania,Hungary,-17,0.46,-2.00,0,2,2
+2013.00,Portugal,Israel,-95,8.09,35.00,0,3,3
+2013.00,Panama,Jamaica,3,-0.54,0.00,0,1,1
+2013.00,Estonia,Netherlands,74,-12.27,-61.00,-3,0,3
+2013.00,Albania,Norway,8,-3.32,-2.00,1,1,0
+2013.00,Chile,Peru,-2,4.54,19.00,-1,0,1
+2013.00,Ukraine,Poland,20,-1.72,-13.00,2,3,1
+2013.00,Wales,Scotland,-13,3.63,17.00,1,2,1
+2013.00,Iceland,Slovenia,-43,-5.63,13.00,1,2,1
+2013.00,Finland,Spain,54,-12.81,-54.00,0,1,1
+2013.00,Paraguay,Uruguay,16,-7.36,-36.00,0,1,1
+2013.00,Gabon,Congo,1,3.72,1.00,-1,0,1
+2013.00,Switzerland,Cyprus,-80,10.48,36.00,0,0,0
+2013.00,Benin,Algeria,20,-8.18,-35.00,-2,1,3
+2013.00,Czech Republic,Armenia,-53,3.63,9.00,3,3,0
+2013.00,Oman,Australia,47,-1.90,-45.00,0,2,2
+2013.00,Argentina,Bolivia,-52,15.21,30.00,0,1,1
+2013.00,Uruguay,Chile,8,1.36,8.00,-2,0,2
+2013.00,Jamaica,Costa Rica,27,-5.81,-11.00,-2,0,2
+2013.00,Bulgaria,Denmark,41,-6.63,-16.00,0,1,1
+2013.00,Paraguay,Ecuador,-30,-1.27,-16.00,-3,1,4
+2013.00,Spain,France,1,6.90,10.00,1,1,0
+2013.00,England,Montenegro,-30,8.45,20.00,0,1,1
+2013.00,Romania,Netherlands,13,-4.90,-44.00,-3,0,4
+2013.00,Israel,Northern Ireland,72,1.72,-1.00,2,2,0
+2013.00,Honduras,Panama,4,0.18,11.00,-2,0,2
+2013.00,Scotland,Serbia,-1,-6.36,-10.00,-2,0,2
+2013.00,Hungary,Turkey,12,-4.28,3.00,0,1,1
+2013.00,Lebanon,Uzbekistan,-6,-12.55,-34.00,-1,0,1
+2013.00,Colombia,Venezuela,-23,5.00,24.00,-1,0,1
+2013.00,Croatia,Wales,-3,6.00,9.00,1,2,1
+2013.00,Mexico,Jamaica,-37,10.09,24.00,1,1,0
+2013.00,Australia,Japan,-20,-1.00,16.00,0,1,1
+2013.00,Korea Republic,Lebanon,-21,11.98,52.00,0,1,1
+2013.00,Iraq,Oman,4,-7.00,1.00,-1,0,1
+2013.00,Norway,Albania,-8,3.32,2.00,0,1,1
+2013.00,Colombia,Argentina,11,-1.93,-9.00,0,0,0
+2013.00,Sweden,Austria,-3,0.00,16.00,-1,1,2
+2013.00,Serbia,Belgium,32,-5.90,-23.00,-1,1,2
+2013.00,Venezuela,Bolivia,-18,8.27,-3.00,0,1,1
+2013.00,Honduras,Costa Rica,34,-6.18,0.00,-1,0,1
+2013.00,Scotland,Croatia,16,-9.63,-26.00,1,1,0
+2013.00,Italy,Czech Republic,-25,7.18,29.00,0,0,0
+2013.00,Belarus,Finland,17,-6.00,0.00,-1,0,1
+2013.00,Slovenia,Iceland,43,5.63,-13.00,2,4,2
+2013.00,Ukraine,Montenegro,-13,3.36,-2.00,3,4,0
+2013.00,Mexico,Panama,-40,10.63,24.00,0,0,0
+2013.00,Chile,Paraguay,-24,6.00,28.00,1,2,1
+2013.00,Ecuador,Peru,52,-0.18,7.00,-1,0,1
+2013.00,Russia,Portugal,62,-6.12,-30.00,-1,0,1
+2013.00,Congo,Gabon,-1,-3.72,-1.00,0,0,0
+2013.00,Cyprus,Switzerland,80,-10.48,-36.00,-1,0,1
+2013.00,Algeria,Benin,-20,8.18,35.00,2,3,1
+2013.00,Finland,Belarus,-17,6.00,0.00,0,1,1
+2013.00,Bolivia,Chile,48,-11.90,-24.00,-2,1,3
+2013.00,Peru,Colombia,-5,-5.90,-16.00,-2,0,2
+2013.00,Armenia,Denmark,86,-6.72,-19.00,3,4,0
+2013.00,Argentina,Ecuador,-58,8.03,18.00,0,1,1
+2013.00,Jamaica,Honduras,-7,0.36,-11.00,-2,0,2
+2013.00,Lebanon,Iran,46,-10.22,-44.00,-3,0,4
+2013.00,Japan,Iraq,-31,9.90,28.00,1,1,0
+2013.00,Uzbekistan,Korea Republic,27,0.56,-18.00,-1,0,1
+2013.00,Costa Rica,Mexico,10,-4.27,-13.00,0,0,0
+2013.00,Faroe Islands,Sweden,71,-15.85,-41.00,-2,0,2
+2013.00,Uruguay,Venezuela,-22,5.00,35.00,1,1,0
+2013.00,Burkina Faso,Congo,-35,5.45,18.00,1,1,0
+2013.00,Benin,Mali,17,-2.54,-22.00,0,2,2
+2013.00,Iraq,Australia,51,-8.90,-44.00,-1,0,1
+2013.00,Panama,Costa Rica,30,-6.36,-11.00,-2,0,2
+2013.00,Iran,Korea Republic,-25,-1.75,-8.00,1,1,0
+2013.00,Russia,Northern Ireland,39,3.68,4.00,-1,0,1
+2013.00,Venezuela,Chile,30,-3.63,-27.00,-3,0,3
+2013.00,Ecuador,Colombia,47,-6.09,-9.00,-1,0,1
+2013.00,Armenia,Czech Republic,53,-3.63,-9.00,1,2,1
+2013.00,Netherlands,Estonia,-74,12.27,61.00,0,2,2
+2013.00,Spain,Finland,-54,12.81,54.00,2,2,0
+2013.00,France,Georgia,-88,8.96,47.00,0,0,0
+2013.00,Austria,Germany,25,-9.54,-64.00,-3,0,3
+2013.00,Zambia,Ghana,27,-8.92,-16.00,-1,1,2
+2013.00,Bulgaria,Italy,33,-10.72,-35.00,-1,0,1
+2013.00,Honduras,Mexico,44,-10.45,-13.00,1,2,1
+2013.00,Portugal,Northern Ireland,-23,9.81,34.00,2,4,2
+2013.00,Cyprus,Norway,38,-5.12,-7.00,-2,0,2
+2013.00,Jamaica,Panama,-3,0.54,0.00,0,0,0
+2013.00,Bolivia,Paraguay,24,-5.90,4.00,-3,0,4
+2013.00,Uruguay,Peru,6,5.90,27.00,1,2,1
+2013.00,Montenegro,Poland,33,-5.09,-11.00,0,1,1
+2013.00,Hungary,Romania,17,-0.46,2.00,-3,0,3
+2013.00,Luxembourg,Russia,17,-8.94,-14.00,-3,1,4
+2013.00,Belgium,Scotland,-31,12.27,33.00,2,2,0
+2013.00,Croatia,Serbia,-17,3.27,16.00,0,1,1
+2013.00,Albania,Slovenia,-9,-9.69,-12.00,-1,0,1
+2013.00,Iceland,Switzerland,16,-4.63,-6.00,0,4,4
+2013.00,Gabon,Burkina Faso,36,-1.72,-17.00,-1,0,1
+2013.00,Uganda,Senegal,46,-9.60,-30.00,-1,0,1
+2013.00,Libya,Cameroon,50,-11.36,-19.00,-1,0,1
+2013.00,Mali,Algeria,3,-5.63,-13.00,-1,0,1
+2013.00,Denmark,Armenia,-86,6.72,19.00,1,1,0
+2013.00,France,Belarus,-72,11.91,44.00,2,4,2
+2013.00,Ecuador,Bolivia,6,7.18,12.00,0,1,1
+2013.00,Slovenia,Cyprus,-21,11.48,17.00,2,2,0
+2013.00,Guinea,Egypt,24,-1.63,-30.00,-2,2,4
+2013.00,Germany,Faroe Islands,-93,25.40,89.00,3,3,0
+2013.00,Finland,Georgia,-33,3.04,3.00,1,1,0
+2013.00,Panama,Honduras,-4,-0.18,-11.00,0,2,2
+2013.00,Albania,Iceland,34,-4.05,-25.00,-1,1,2
+2013.00,Czech Republic,Italy,25,-7.18,-29.00,-1,1,2
+2013.00,Costa Rica,Jamaica,-27,5.81,11.00,0,1,1
+2013.00,Northern Ireland,Luxembourg,-56,5.25,10.00,-1,2,3
+2013.00,Switzerland,Norway,-42,5.36,29.00,2,2,0
+2013.00,Turkey,Romania,5,3.81,-1.00,2,2,0
+2013.00,Israel,Russia,33,-1.96,-5.00,-2,1,3
+2013.00,England,Ukraine,-17,5.09,22.00,0,0,0
+2013.00,Colombia,Uruguay,-1,0.00,-11.00,-2,0,2
+2013.00,Peru,Venezuela,-28,-0.90,8.00,-1,2,3
+2013.00,Serbia,Wales,14,2.72,-7.00,3,3,0
+2013.00,Switzerland,Albania,-50,8.69,31.00,1,2,1
+2013.00,Peru,Argentina,6,-7.84,-25.00,-2,1,3
+2013.00,Bulgaria,Armenia,-45,0.09,3.00,-1,1,2
+2013.00,Chile,Colombia,-7,-1.36,3.00,0,3,3
+2013.00,Belgium,Croatia,-15,2.63,7.00,1,2,1
+2013.00,Italy,Denmark,8,4.09,19.00,0,2,2
+2013.00,Uruguay,Ecuador,-46,6.09,20.00,-1,0,1
+2013.00,Montenegro,England,30,-8.45,-20.00,-3,1,4
+2013.00,Turkey,Estonia,-56,11.18,16.00,2,2,0
+2013.00,Slovakia,Greece,-15,-1.36,-17.00,-1,0,1
+2013.00,Costa Rica,Honduras,-34,6.18,0.00,-1,0,1
+2013.00,Cyprus,Iceland,64,-5.84,-30.00,-2,0,2
+2013.00,Russia,Luxembourg,-17,8.94,14.00,3,4,0
+2013.00,Panama,Mexico,40,-10.63,-24.00,-1,1,2
+2013.00,Israel,Portugal,95,-8.09,-35.00,0,1,1
+2013.00,Norway,Slovenia,-17,-6.36,-10.00,-3,0,3
+2013.00,Belarus,Spain,71,-18.81,-54.00,-1,1,2
+2013.00,Austria,Sweden,3,0.00,-16.00,-1,1,2
+2013.00,Poland,Ukraine,-20,1.72,13.00,-1,0,1
+2013.00,Paraguay,Venezuela,-6,-2.36,-1.00,0,1,1
+2013.00,Algeria,Burkina Faso,10,5.00,7.00,-1,2,3
+2013.00,Cameroon,Tunisia,36,4.63,-14.00,0,0,0
+2013.00,Wales,Belgium,18,-8.63,-16.00,0,1,1
+2013.00,Czech Republic,Bulgaria,-8,3.54,6.00,1,1,0
+2013.00,Ecuador,Chile,54,-4.72,-12.00,-1,1,2
+2013.00,Mexico,Costa Rica,-10,4.27,13.00,-1,1,2
+2013.00,Albania,Cyprus,-30,1.79,5.00,0,0,0
+2013.00,Poland,England,-3,-3.36,-9.00,-2,0,2
+2013.00,Austria,Faroe Islands,-68,15.85,25.00,3,3,0
+2013.00,Finland,France,55,-5.91,-44.00,-3,0,3
+2013.00,Northern Ireland,Israel,-72,-1.72,1.00,0,1,1
+2013.00,Armenia,Italy,78,-10.81,-38.00,0,2,2
+2013.00,Honduras,Jamaica,7,-0.36,11.00,0,2,2
+2013.00,Iceland,Norway,-26,0.72,23.00,0,1,1
+2013.00,Colombia,Paraguay,-17,7.36,25.00,1,2,1
+2013.00,Bolivia,Peru,46,-7.36,-5.00,0,1,1
+2013.00,Luxembourg,Portugal,79,-15.07,-44.00,-3,0,3
+2013.00,Estonia,Romania,61,-7.36,-17.00,-2,0,2
+2013.00,Croatia,Scotland,-16,9.63,26.00,-2,0,2
+2013.00,Georgia,Spain,87,-15.86,-57.00,-2,0,2
+2013.00,Slovenia,Switzerland,59,1.00,-19.00,-1,0,1
+2013.00,Netherlands,Turkey,-18,1.09,45.00,2,2,0
+2013.00,Argentina,Uruguay,-12,1.93,-2.00,-1,2,3
+2013.00,Romania,Greece,-12,-3.72,-19.00,-2,1,3
+2013.00,Croatia,Iceland,-4,9.81,2.00,0,0,0
+2013.00,Sweden,Portugal,19,-3.81,-14.00,-1,0,1
+2013.00,France,Ukraine,-23,4.37,29.00,-2,0,2
+2013.00,Tunisia,Cameroon,-36,-4.63,14.00,-3,1,4
+2013.00,Burkina Faso,Algeria,-10,-5.00,-7.00,-1,0,1
+2013.00,Iceland,Croatia,4,-9.81,-2.00,-2,0,2
+2013.00,Ghana,Egypt,5,2.09,5.00,-1,1,2
+2013.00,Ukraine,France,23,-4.37,-29.00,-3,0,3
+2013.00,Greece,Romania,12,3.72,19.00,0,1,1
+2013.00,Portugal,Sweden,-19,3.81,14.00,1,3,2
+2014.00,Croatia,Brazil,16,-1.18,2.00,-2,1,3
+2014.00,Australia,Chile,31,-5.45,31.00,-2,1,3
+2014.00,Cameroon,Mexico,35,-1.36,-19.00,-1,0,1
+2014.00,Greece,Colombia,28,-3.63,-2.00,-3,0,3
+2014.00,Italy,England,7,0.63,6.00,1,2,1
+2014.00,Costa Rica,Uruguay,8,-6.27,-20.00,2,3,1
+2014.00,Honduras,France,52,-12.18,-15.00,-3,0,3
+2014.00,Ecuador,Switzerland,57,-3.18,-4.00,-1,1,2
+2014.00,Portugal,Germany,3,-5.72,-34.00,-3,0,4
+2014.00,Nigeria,Iran,11,3.48,-18.00,0,0,0
+2014.00,Algeria,Belgium,61,-8.63,-6.00,-1,1,2
+2014.00,Mexico,Brazil,13,-5.45,15.00,0,0,0
+2014.00,Korea Republic,Russia,-5,-0.96,45.00,0,1,1
+2014.00,Netherlands,Australia,-21,4.36,-11.00,1,3,2
+2014.00,Croatia,Cameroon,-32,5.63,6.00,3,4,0
+2014.00,Chile,Spain,1,-8.00,-13.00,2,2,0
+2014.00,Greece,Japan,-16,2.18,-20.00,0,0,0
+2014.00,England,Uruguay,-4,0.45,-12.00,-1,1,2
+2014.00,Ecuador,Honduras,4,6.36,0.00,1,2,1
+2014.00,Costa Rica,Italy,5,-7.36,-14.00,1,1,0
+2014.00,Iran,Argentina,31,-10.23,3.00,-1,0,1
+2014.00,Ghana,Germany,50,-10.90,-34.00,0,2,2
+2014.00,Russia,Belgium,63,-10.49,-23.00,-1,0,1
+2014.00,Algeria,Korea Republic,3,2.81,-28.00,2,4,2
+2014.00,Spain,Australia,-32,13.45,-18.00,3,3,0
+2014.00,Cameroon,Brazil,48,-6.81,-4.00,-3,1,4
+2014.00,Mexico,Croatia,-3,-4.27,13.00,2,3,1
+2014.00,Chile,Netherlands,-10,1.09,-20.00,-2,0,2
+2014.00,England,Costa Rica,-12,6.72,8.00,0,0,0
+2014.00,Uruguay,Italy,-3,-1.09,6.00,1,1,0
+2014.00,Colombia,Japan,-44,5.81,-18.00,3,4,1
+2014.00,France,Ecuador,-56,5.82,15.00,0,0,0
+2014.00,Switzerland,Honduras,-53,9.54,4.00,3,3,0
+2014.00,Argentina,Nigeria,-42,6.75,15.00,1,3,2
+2014.00,Russia,Algeria,2,-1.85,-17.00,0,1,1
+2014.00,Belgium,Korea Republic,-58,11.45,-22.00,1,1,0
+2014.00,Ghana,Portugal,47,-5.18,0.00,-1,1,2
+2014.00,Chile,Brazil,7,-4.81,14.00,0,1,1
+2014.00,Uruguay,Colombia,1,0.00,11.00,-2,0,2
+2014.00,Greece,Costa Rica,19,2.63,7.00,0,1,1
+2014.00,Mexico,Netherlands,-4,0.45,-19.00,-1,1,2
+2014.00,Nigeria,France,40,-4.54,-12.00,-2,0,2
+2014.00,Algeria,Germany,63,-10.00,-47.00,-1,1,2
+2014.00,Switzerland,Argentina,1,-4.84,-14.00,-1,0,1
+2014.00,Colombia,Brazil,14,-3.45,11.00,-1,1,2
+2014.00,Germany,France,-6,6.53,33.00,1,1,0
+2014.00,Belgium,Argentina,-2,2.96,-11.00,-1,0,1
+2014.00,Costa Rica,Netherlands,6,-3.81,-32.00,0,0,0
+2014.00,Argentina,Netherlands,-14,4.39,-14.00,0,0,0
+2014.00,Netherlands,Brazil,17,-5.90,34.00,3,3,0
+2014.00,Argentina,Germany,4,-4.33,-30.00,-1,0,1
+2015.00,Oman,Korea Republic,26,-1.90,-31.00,-1,0,1
+2015.00,Palestine,Japan,36,-13.27,-66.00,-3,0,4
+2015.00,Oman,Australia,47,-0.81,-45.00,-3,0,4
+2015.00,Japan,Iraq,-31,8.14,28.00,1,1,0
+2015.00,Korea Republic,Australia,21,1.09,-14.00,1,1,0
+2015.00,Gabon,Burkina Faso,36,-0.45,-17.00,2,2,0
+2015.00,Saudi Arabia,Uzbekistan,-20,5.10,-6.00,-2,1,3
+2015.00,South Africa,Algeria,8,-6.00,6.00,-2,1,3
+2015.00,Senegal,Ghana,-23,2.09,-18.00,1,2,1
+2015.00,Palestine,Iraq,5,-5.12,-38.00,-2,0,2
+2015.00,Cameroon,Mali,-17,4.36,6.00,0,1,1
+2015.00,Congo,Gabon,-1,-1.90,-1.00,1,1,0
+2015.00,Uzbekistan,Korea Republic,27,-6.10,-18.00,-2,0,2
+2015.00,Tunisia,Zambia,-64,8.31,10.00,1,2,1
+2015.00,Algeria,Ghana,13,2.27,-13.00,-1,0,1
+2015.00,Iraq,Iran,55,-4.14,-22.00,0,3,3
+2015.00,Senegal,South Africa,-44,5.81,-11.00,0,1,1
+2015.00,Guinea,Cameroon,20,-3.63,-15.00,0,1,1
+2015.00,Burkina Faso,Congo,-35,2.36,18.00,-1,1,2
+2015.00,Iraq,Korea Republic,30,-6.78,-30.00,-2,0,2
+2015.00,Algeria,Senegal,36,0.18,5.00,2,2,0
+2015.00,Ghana,South Africa,-21,3.72,7.00,1,2,1
+2015.00,Mali,Guinea,-3,-0.72,9.00,0,1,1
+2015.00,Korea Republic,Australia,21,1.09,-14.00,-1,1,2
+2015.00,Guinea,Ghana,19,-2.63,-35.00,-3,0,3
+2015.00,Oman,India,-10,16.45,30.00,1,2,1
+2015.00,Palestine,Saudi Arabia,28,-10.90,-44.00,-1,2,3
+2015.00,Iran,India,-61,15.72,53.00,3,3,0
+2015.00,Korea Republic,Lebanon,-21,13.40,52.00,3,3,0
+2015.00,Peru,Colombia,-5,-6.63,-16.00,-2,0,2
+2015.00,Iran,Oman,-51,-0.72,23.00,0,1,1
+2015.00,Japan,Syria,-16,2.77,46.00,3,3,0
+2015.00,Paraguay,Venezuela,-6,0.72,-1.00,1,1,0
+2015.00,Bolivia,Ecuador,-6,-9.00,-12.00,-2,0,2
+2015.00,India,Oman,10,-16.45,-30.00,-3,0,3
+2015.00,Saudi Arabia,Palestine,-28,10.90,44.00,0,0,0
+2015.00,Burkina Faso,Benin,-30,2.81,28.00,-1,1,2
+2015.00,Venezuela,Bolivia,-18,8.72,-3.00,-2,2,4
+2015.00,Uruguay,Ecuador,-46,6.18,20.00,-1,1,2
+2015.00,Benin,Burkina Faso,30,-2.81,-28.00,-2,0,2
+2015.00,Argentina,Colombia,-11,5.27,9.00,1,1,0
+2015.00,Mexico,Honduras,-44,8.54,13.00,2,2,0
+2015.00,Ecuador,Venezuela,24,0.27,15.00,2,3,1
+2016.00,Colombia,Bolivia,-41,14.27,21.00,1,3,2
+2016.00,Argentina,Chile,-4,6.63,6.00,1,2,1
+2016.00,Paraguay,Ecuador,-30,0.45,-16.00,0,2,2
+2016.00,India,Iran,61,-15.72,-53.00,-3,0,4
+2016.00,Lebanon,Korea Republic,21,-13.40,-52.00,-1,0,1
+2016.00,Venezuela,Peru,28,1.09,-8.00,0,2,2
+2016.00,Uruguay,Brazil,15,-4.18,22.00,0,2,2
+2016.00,Mexico,Canada,-65,8.45,36.00,3,3,0
+2016.00,Honduras,El Salvador,-26,2.63,8.00,0,2,2
+2016.00,Costa Rica,Jamaica,-27,2.81,11.00,0,1,1
+2016.00,Bolivia,Argentina,52,-19.54,-30.00,-2,0,2
+2016.00,Ecuador,Colombia,47,-5.27,-9.00,-3,0,3
+2016.00,Jamaica,Costa Rica,27,-2.81,-11.00,-3,0,3
+2016.00,El Salvador,Honduras,26,-2.63,-8.00,-2,0,2
+2016.00,Oman,Iran,51,0.72,-23.00,-2,0,2
+2016.00,Canada,Mexico,65,-8.45,-36.00,-2,0,2
+2016.00,Brazil,Paraguay,-31,9.90,14.00,0,2,2
+2016.00,Peru,Uruguay,-6,-7.54,-27.00,-1,0,1
+2016.00,Chile,Venezuela,-30,4.18,27.00,3,4,1
+2016.00,Romania,France,25,-9.90,-27.00,-1,1,2
+2016.00,Switzerland,Albania,-50,4.81,31.00,1,1,0
+2016.00,Russia,England,53,-5.28,-24.00,0,1,1
+2016.00,Slovakia,Wales,8,-0.45,-1.00,-1,1,2
+2016.00,Ukraine,Germany,29,-7.85,-62.00,-2,0,2
+2016.00,Northern Ireland,Poland,17,-7.81,-19.00,-1,0,1
+2016.00,Croatia,Turkey,-19,3.45,13.00,1,1,0
+2016.00,Italy,Belgium,17,-2.18,7.00,2,2,0
+2016.00,Czech Republic,Spain,37,-8.90,-40.00,-1,0,1
+2016.00,Hungary,Austria,23,-6.81,6.00,2,2,0
+2016.00,Iceland,Portugal,18,-9.72,-16.00,0,1,1
+2016.00,Albania,France,49,-11.63,-42.00,-2,0,2
+2016.00,Switzerland,Romania,-26,3.09,16.00,0,1,1
+2016.00,Slovakia,Russia,-37,-0.25,6.00,1,2,1
+2016.00,Wales,England,8,-5.09,-17.00,-1,1,2
+2016.00,Poland,Germany,9,-5.03,-49.00,0,0,0
+2016.00,Northern Ireland,Ukraine,-3,-5.00,-6.00,2,2,0
+2016.00,Croatia,Czech Republic,-27,4.90,15.00,0,2,2
+2016.00,Sweden,Italy,3,-7.46,-14.00,-1,0,1
+2016.00,Turkey,Spain,29,-7.45,-38.00,-3,0,3
+2016.00,Hungary,Iceland,27,-1.90,-8.00,0,1,1
+2016.00,Austria,Portugal,22,-4.81,-30.00,0,0,0
+2016.00,Switzerland,France,-1,-6.81,-11.00,0,0,0
+2016.00,Albania,Romania,24,-1.72,-15.00,1,1,0
+2016.00,Wales,Russia,-45,0.19,7.00,3,3,0
+2016.00,England,Slovakia,-16,5.54,18.00,0,0,0
+2016.00,Spain,Croatia,-10,4.00,25.00,-1,1,2
+2016.00,Turkey,Czech Republic,-8,1.45,2.00,2,2,0
+2016.00,Germany,Northern Ireland,-26,12.85,68.00,1,1,0
+2016.00,Poland,Ukraine,-20,2.81,13.00,1,1,0
+2016.00,Portugal,Hungary,-45,11.63,24.00,0,3,3
+2016.00,Austria,Iceland,4,4.90,-14.00,-1,1,2
+2016.00,Belgium,Sweden,-20,9.65,7.00,1,1,0
+2016.00,Portugal,Croatia,-14,0.72,14.00,1,1,0
+2016.00,Poland,Switzerland,4,1.90,-5.00,0,1,1
+2016.00,Northern Ireland,Wales,6,-4.63,-11.00,-1,0,1
+2016.00,Slovakia,Germany,28,-8.67,-58.00,-3,0,3
+2016.00,Belgium,Hungary,-46,14.90,17.00,3,4,0
+2016.00,Iceland,England,9,-8.63,-10.00,1,2,1
+2016.00,Spain,Italy,-12,2.18,11.00,-2,0,2
+2016.00,Portugal,Poland,-6,3.00,15.00,0,1,1
+2016.00,Belgium,Wales,-18,9.45,16.00,-2,1,3
+2016.00,Italy,Germany,19,-0.94,-34.00,0,1,1
+2016.00,Wales,Portugal,17,-6.18,-23.00,-2,0,2
+2016.00,Germany,France,-6,0.12,33.00,-2,0,2
+2016.00,Portugal,France,-3,-1.90,-1.00,1,1,0
+2016.00,Iraq,Australia,51,-5.69,-44.00,-2,0,2
+2016.00,Peru,Bolivia,-46,7.63,5.00,3,3,0
+2016.00,Venezuela,Colombia,23,-5.54,-24.00,-2,0,2
+2016.00,Brazil,Ecuador,-61,10.36,-2.00,3,3,0
+2016.00,Syria,Uzbekistan,-12,4.70,-30.00,-1,0,1
+2016.00,Mexico,El Salvador,-70,11.18,21.00,2,3,1
+2016.00,Canada,Honduras,21,0.09,-23.00,-1,1,2
+2016.00,Jamaica,Panama,-3,4.45,0.00,-2,0,2
+2016.00,Northern Ireland,Czech Republic,-18,-5.18,-5.00,0,0,0
+2016.00,Armenia,Denmark,86,-10.54,-19.00,-1,0,1
+2016.00,Germany,Norway,-47,9.31,73.00,3,3,0
+2016.00,Montenegro,Romania,11,-2.72,0.00,0,1,1
+2016.00,England,Slovakia,-16,5.54,18.00,1,1,0
+2016.00,Turkey,Croatia,19,-3.45,-13.00,0,1,1
+2016.00,Austria,Georgia,-69,6.09,16.00,1,2,1
+2016.00,Italy,Israel,-79,12.72,35.00,2,3,1
+2016.00,Iceland,Ukraine,-8,-3.90,12.00,0,1,1
+2016.00,France,Belarus,-72,14.89,44.00,0,0,0
+2016.00,Colombia,Brazil,14,-5.09,11.00,-1,1,2
+2016.00,Luxembourg,Bulgaria,30,-3.97,-9.00,-1,3,4
+2016.00,El Salvador,Canada,5,-2.72,15.00,-2,1,3
+2016.00,Bolivia,Chile,48,-12.90,-24.00,-3,0,3
+2016.00,Panama,Costa Rica,30,-7.27,-11.00,-2,1,3
+2016.00,Belgium,Cyprus,-83,23.63,39.00,3,3,0
+2016.00,Hungary,Faroe Islands,-45,11.24,31.00,0,0,0
+2016.00,Saudi Arabia,Iraq,-23,5.78,6.00,1,2,1
+2016.00,Honduras,Mexico,44,-8.54,-13.00,0,0,0
+2016.00,Ecuador,Peru,52,1.36,7.00,-1,1,2
+2016.00,Netherlands,Sweden,-4,5.65,32.00,0,1,1
+2016.00,Portugal,Switzerland,-2,4.90,10.00,-2,0,2
+2016.00,Korea Republic,Syria,-15,1.40,48.00,0,0,0
+2016.00,Paraguay,Uruguay,16,-5.72,-36.00,-3,0,4
+2016.00,Argentina,Venezuela,-34,10.81,33.00,0,2,2
+2016.00,Wales,Austria,-5,-1.36,7.00,0,2,2
+2016.00,Chile,Ecuador,-54,3.90,12.00,-3,0,3
+2016.00,Finland,Iceland,40,0.00,-27.00,-1,2,3
+2016.00,Spain,Italy,-12,2.18,11.00,0,1,1
+2016.00,Iraq,Japan,31,-8.14,-28.00,-1,1,2
+2016.00,Australia,Saudi Arabia,-28,-0.09,38.00,0,2,2
+2016.00,Ukraine,Turkey,-7,-1.63,-1.00,0,2,2
+2016.00,Iran,Uzbekistan,-52,3.47,10.00,1,1,0
+2016.00,Bulgaria,France,46,-14.72,-36.00,-3,1,4
+2016.00,Uganda,Ghana,23,-10.15,-48.00,0,0,0
+2016.00,Cyprus,Greece,42,-14.90,-39.00,-2,0,2
+2016.00,Switzerland,Hungary,-43,6.72,14.00,1,3,2
+2016.00,Sweden,Luxembourg,-60,10.41,30.00,1,1,0
+2016.00,Belarus,Netherlands,60,-12.26,-61.00,-3,1,4
+2016.00,South Africa,Burkina Faso,18,1.09,13.00,0,1,1
+2016.00,Morocco,Gabon,-48,7.00,12.00,0,0,0
+2016.00,Czech Republic,Germany,44,-7.67,-63.00,-3,0,3
+2016.00,Denmark,Poland,2,-1.09,-4.00,-1,2,3
+2016.00,Slovakia,Slovenia,-36,-1.90,5.00,-1,0,1
+2016.00,Spain,Albania,-48,13.00,52.00,2,2,0
+2016.00,Cameroon,Algeria,-14,-1.27,-7.00,0,1,1
+2016.00,Egypt,Congo,-43,4.81,33.00,1,2,1
+2016.00,Croatia,Finland,-44,9.00,29.00,1,1,0
+2016.00,Turkey,Iceland,15,5.54,-11.00,-2,0,2
+2016.00,Austria,Serbia,-9,-1.54,0.00,-1,2,3
+2016.00,Guinea,Tunisia,56,1.45,-29.00,-2,0,2
+2016.00,Georgia,Wales,74,-4.72,-23.00,0,1,1
+2016.00,Nigeria,Zambia,-31,11.31,5.00,1,2,1
+2016.00,Luxembourg,Belarus,4,-3.80,-1.00,0,1,1
+2016.00,Greece,Estonia,-49,11.75,36.00,2,2,0
+2016.00,France,Netherlands,-12,2.63,-17.00,1,1,0
+2016.00,Bulgaria,Sweden,30,-6.43,-21.00,-3,0,3
+2016.00,Paraguay,Argentina,28,-10.09,-34.00,1,1,0
+2016.00,Japan,Australia,20,2.45,-16.00,0,1,1
+2016.00,Ecuador,Bolivia,6,9.00,12.00,0,2,2
+2016.00,Peru,Chile,2,-5.27,-19.00,-1,1,2
+2016.00,Uruguay,Colombia,1,0.90,11.00,0,2,2
+2016.00,Montenegro,Denmark,31,-6.63,-7.00,1,1,0
+2016.00,Northern Ireland,Germany,26,-12.85,-68.00,-2,0,2
+2016.00,Korea Republic,Iran,25,2.63,8.00,-1,0,1
+2016.00,Armenia,Poland,88,-11.63,-23.00,-1,1,2
+2016.00,Scotland,Slovakia,5,-1.27,-16.00,-3,0,3
+2016.00,England,Slovenia,-52,3.63,23.00,0,0,0
+2016.00,Brazil,Venezuela,-37,10.63,13.00,2,2,0
+2016.00,Chile,Colombia,-7,-1.36,3.00,0,0,0
+2016.00,Montenegro,Armenia,-55,3.90,12.00,-1,2,3
+2016.00,Norway,Czech Republic,3,-1.63,-10.00,-1,1,2
+2016.00,Scotland,England,21,-6.81,-34.00,-3,0,3
+2016.00,Sweden,France,16,-8.28,-15.00,-1,1,2
+2016.00,Panama,Honduras,-4,-2.63,-11.00,1,1,0
+2016.00,Tunisia,Libya,-86,4.31,33.00,1,1,0
+2016.00,Poland,Romania,-22,5.00,11.00,3,3,0
+2016.00,Israel,Albania,43,-1.90,6.00,3,3,0
+2016.00,Zambia,Cameroon,28,-13.40,4.00,0,1,1
+2016.00,Iceland,Croatia,4,-9.00,-2.00,-2,0,2
+2016.00,Gabon,Mali,23,-1.90,-11.00,0,0,0
+2016.00,Algeria,Nigeria,17,3.36,-2.00,-2,1,3
+2016.00,Senegal,South Africa,-44,5.81,-11.00,-1,1,2
+2016.00,Congo,Uganda,15,2.97,10.00,-1,0,1
+2016.00,Finland,Ukraine,32,-3.90,-15.00,-1,0,1
+2016.00,Serbia,Wales,14,2.90,-7.00,0,1,1
+2016.00,Belarus,Bulgaria,26,-0.17,-8.00,-1,0,1
+2016.00,Ghana,Egypt,5,2.36,5.00,-2,0,2
+2016.00,Netherlands,Luxembourg,-64,16.06,62.00,2,3,1
+2016.00,Faroe Islands,Switzerland,88,-17.96,-45.00,-2,0,2
+2016.00,Colombia,Argentina,11,-5.27,-9.00,-3,0,3
+2016.00,Paraguay,Bolivia,-24,9.45,-4.00,-1,0,1
+2016.00,Uruguay,Chile,8,2.27,8.00,-2,1,3
+2016.00,Venezuela,Ecuador,-24,-0.27,-15.00,-3,0,3
+2016.00,Saudi Arabia,Japan,8,-2.36,-22.00,-1,1,2
+2016.00,Uzbekistan,Korea Republic,27,-6.10,-18.00,-1,1,2
+2016.00,Mexico,Panama,-40,11.18,24.00,0,0,0
+2016.00,Brazil,Peru,-9,11.72,5.00,2,2,0
+2016.00,Iran,Syria,-40,-1.22,40.00,0,0,0
+2017.00,Cameroon,Burkina Faso,-4,5.81,0.00,0,1,1
+2017.00,Senegal,Tunisia,14,6.18,-12.00,2,2,0
+2017.00,Uganda,Ghana,23,-10.15,-48.00,-1,0,1
+2017.00,Egypt,Mali,-21,1.00,21.00,0,0,0
+2017.00,Burkina Faso,Gabon,-36,0.45,17.00,0,1,1
+2017.00,Tunisia,Algeria,-50,-6.36,7.00,1,2,1
+2017.00,Uganda,Egypt,28,-7.79,-43.00,-1,0,1
+2017.00,Mali,Ghana,16,-3.36,-26.00,-1,0,1
+2017.00,Cameroon,Gabon,-40,6.27,17.00,0,0,0
+2017.00,Algeria,Senegal,36,0.18,5.00,0,2,2
+2017.00,Ghana,Egypt,5,2.36,5.00,-1,0,1
+2017.00,Mali,Uganda,-7,6.79,22.00,0,1,1
+2017.00,Tunisia,Burkina Faso,-40,0.72,14.00,-2,0,2
+2017.00,Cameroon,Senegal,22,-1.09,-2.00,0,0,0
+2017.00,Morocco,Egypt,-4,4.09,-20.00,-1,0,1
+2017.00,Egypt,Burkina Faso,-8,2.45,15.00,0,1,1
+2017.00,Ghana,Cameroon,1,-1.00,20.00,-2,0,2
+2017.00,Ghana,Burkina Faso,-3,4.81,20.00,-1,0,1
+2017.00,Cameroon,Egypt,4,3.36,-15.00,1,2,1
+2017.00,Chile,Argentina,4,-6.63,-6.00,-1,0,1
+2017.00,Bolivia,Colombia,41,-14.27,-21.00,-1,0,1
+2017.00,Australia,Iraq,-51,5.69,44.00,0,1,1
+2017.00,Uzbekistan,Syria,12,-4.70,30.00,-1,0,1
+2017.00,Peru,Venezuela,-28,-1.09,8.00,0,2,2
+2017.00,Ukraine,Croatia,12,-5.09,-14.00,-1,0,1
+2017.00,Serbia,Georgia,-60,7.63,16.00,1,2,1
+2017.00,Albania,Italy,36,-10.81,-41.00,-2,0,2
+2017.00,Costa Rica,Mexico,10,-3.90,-13.00,-2,0,2
+2017.00,Israel,Spain,91,-14.90,-46.00,-3,1,4
+2017.00,Finland,Turkey,25,-5.54,-16.00,-2,0,2
+2017.00,Greece,Belgium,41,-8.72,0.00,0,1,1
+2017.00,Netherlands,Bulgaria,-34,12.09,53.00,-2,0,2
+2017.00,Estonia,Cyprus,7,3.15,3.00,0,0,0
+2017.00,France,Luxembourg,-76,18.70,45.00,2,3,1
+2017.00,Hungary,Portugal,45,-11.63,-24.00,-3,0,3
+2017.00,Belarus,Sweden,56,-6.61,-29.00,-3,0,4
+2017.00,Poland,Montenegro,-33,7.72,11.00,1,2,1
+2017.00,Norway,Northern Ireland,21,3.54,-5.00,-2,0,2
+2017.00,Denmark,Romania,-20,3.90,7.00,0,0,0
+2017.00,Slovenia,Scotland,31,3.18,11.00,-1,0,1
+2017.00,Argentina,Bolivia,-52,19.54,30.00,-2,0,2
+2017.00,Paraguay,Brazil,31,-9.90,-14.00,-3,0,3
+2017.00,Venezuela,Chile,30,-4.18,-27.00,-2,1,3
+2017.00,Colombia,Ecuador,-47,5.27,9.00,2,2,0
+2017.00,Costa Rica,Honduras,-34,4.63,0.00,0,1,1
+2017.00,Syria,Korea Republic,15,-1.40,-48.00,-1,0,1
+2017.00,Uruguay,Peru,6,7.54,27.00,-1,1,2
+2017.00,Iraq,Saudi Arabia,23,-5.78,-6.00,-1,0,1
+2017.00,Saudi Arabia,Australia,28,0.09,-38.00,-1,2,3
+2017.00,Panama,Costa Rica,30,-7.27,-11.00,0,0,0
+2017.00,Honduras,Mexico,44,-8.54,-13.00,-3,0,3
+2017.00,Bulgaria,Belarus,-26,0.17,8.00,-1,1,2
+2017.00,Belgium,Estonia,-90,20.48,36.00,2,2,0
+2017.00,Switzerland,Faroe Islands,-88,17.96,45.00,2,2,0
+2017.00,France,Sweden,-16,8.28,15.00,-1,1,2
+2017.00,Armenia,Montenegro,55,-3.90,-12.00,-3,1,4
+2017.00,Czech Republic,Norway,-3,1.63,10.00,0,1,1
+2017.00,Romania,Poland,22,-5.00,-11.00,-2,1,3
+2017.00,England,Scotland,-21,6.81,34.00,0,2,2
+2017.00,Ukraine,Finland,-32,3.90,15.00,1,2,1
+2017.00,Croatia,Iceland,-4,9.00,2.00,-1,0,1
+2017.00,Albania,Israel,-43,1.90,-6.00,3,3,0
+2017.00,Wales,Serbia,-14,-2.90,7.00,0,1,1
+2017.00,Uzbekistan,Iran,52,-3.47,-10.00,-2,0,2
+2017.00,Japan,Iraq,-31,8.14,28.00,0,1,1
+2017.00,Honduras,Panama,4,2.63,11.00,0,2,2
+2017.00,Ecuador,Brazil,61,-10.36,2.00,-2,0,2
+2017.00,Sweden,Bulgaria,-30,6.43,21.00,-1,2,3
+2017.00,Paraguay,Chile,24,-3.45,-28.00,3,3,0
+2017.00,Netherlands,France,12,-2.63,17.00,-3,0,4
+2017.00,Estonia,Greece,49,-11.75,-36.00,0,0,0
+2017.00,Libya,Guinea,30,-5.77,-4.00,-1,2,3
+2017.00,Australia,Japan,-20,-2.45,16.00,-2,0,2
+2017.00,Iran,Korea Republic,-25,-2.63,-8.00,0,0,0
+2017.00,Belarus,Luxembourg,-4,3.80,1.00,-1,0,1
+2017.00,Bolivia,Peru,46,-7.63,-5.00,-1,1,2
+2017.00,Egypt,Uganda,-28,7.79,43.00,-1,0,1
+2017.00,Argentina,Uruguay,-12,4.36,-2.00,0,0,0
+2017.00,Colombia,Venezuela,-23,5.54,24.00,0,0,0
+2017.00,Germany,Czech Republic,-44,7.67,63.00,1,2,1
+2017.00,Poland,Denmark,-2,1.09,4.00,-3,0,4
+2017.00,Congo,Ghana,38,-7.18,-38.00,0,1,1
+2017.00,Panama,Mexico,40,-11.18,-24.00,-1,0,1
+2017.00,Cameroon,Nigeria,3,2.09,-9.00,-3,0,4
+2017.00,Armenia,Romania,66,-6.63,-12.00,-1,0,1
+2017.00,Slovenia,Slovakia,36,1.90,-5.00,-1,0,1
+2017.00,Iceland,Finland,-40,0.00,27.00,-1,0,1
+2017.00,Burkina Faso,Senegal,26,-6.90,-2.00,0,0,0
+2017.00,Italy,Spain,12,-2.18,-11.00,-3,0,3
+2017.00,Turkey,Ukraine,7,1.63,1.00,-2,0,2
+2017.00,Austria,Wales,5,1.36,-7.00,-1,0,1
+2017.00,Algeria,Zambia,-14,14.68,3.00,-2,1,3
+2017.00,Sweden,Belarus,-56,6.61,29.00,3,4,0
+2017.00,Cyprus,Estonia,-7,-3.15,-3.00,-1,0,1
+2017.00,Luxembourg,France,76,-18.70,-45.00,0,0,0
+2017.00,Belgium,Greece,-41,8.72,0.00,1,2,1
+2017.00,Portugal,Hungary,-45,11.63,24.00,1,1,0
+2017.00,Bulgaria,Netherlands,34,-12.09,-53.00,-2,1,3
+2017.00,Denmark,Armenia,-86,10.54,19.00,3,4,1
+2017.00,Nigeria,Cameroon,-3,-2.09,9.00,0,1,1
+2017.00,Slovakia,England,16,-5.54,-18.00,-1,1,2
+2017.00,Guinea,Libya,-30,5.77,4.00,-1,0,1
+2017.00,Romania,Montenegro,-11,2.72,0.00,-1,0,1
+2017.00,Czech Republic,Northern Ireland,18,5.18,5.00,-2,0,2
+2017.00,Zambia,Algeria,14,-14.68,-3.00,1,1,0
+2017.00,Venezuela,Argentina,34,-10.81,-33.00,0,1,1
+2017.00,Georgia,Austria,69,-6.09,-16.00,0,1,1
+2017.00,Chile,Bolivia,-48,12.90,24.00,-1,0,1
+2017.00,Senegal,Burkina Faso,-26,6.90,2.00,0,2,2
+2017.00,Brazil,Colombia,-14,5.09,-11.00,0,1,1
+2017.00,Mexico,Costa Rica,-10,3.90,13.00,0,1,1
+2017.00,Peru,Ecuador,-52,-1.36,-7.00,2,2,0
+2017.00,Uganda,Egypt,28,-7.79,-43.00,-1,0,1
+2017.00,Ukraine,Iceland,8,3.90,-12.00,-2,0,2
+2017.00,Syria,Iran,40,1.22,-40.00,0,2,2
+2017.00,Israel,Italy,79,-12.72,-35.00,-1,0,1
+2017.00,Morocco,Mali,-25,5.09,1.00,0,0,0
+2017.00,Uruguay,Paraguay,-16,5.72,36.00,1,2,1
+2017.00,Japan,Saudi Arabia,-8,2.36,22.00,-1,0,1
+2017.00,Croatia,Turkey,-19,3.45,13.00,-1,0,1
+2017.00,Korea Republic,Uzbekistan,-27,6.10,18.00,0,0,0
+2017.00,Peru,Argentina,6,-11.90,-25.00,0,0,0
+2017.00,Brazil,Bolivia,-55,19.36,10.00,0,0,0
+2017.00,Ecuador,Chile,54,-3.90,-12.00,-1,1,2
+2017.00,Paraguay,Colombia,17,-4.81,-25.00,1,2,1
+2017.00,Slovenia,England,52,-3.63,-23.00,-1,0,1
+2017.00,Denmark,Montenegro,-31,6.63,7.00,1,1,0
+2017.00,Germany,Northern Ireland,-26,12.85,68.00,2,3,1
+2017.00,Slovakia,Scotland,-5,1.27,16.00,-1,0,1
+2017.00,Australia,Syria,-36,0.31,62.00,0,1,1
+2017.00,Uruguay,Venezuela,-22,6.45,35.00,0,0,0
+2017.00,Serbia,Austria,9,1.54,0.00,-1,2,3
+2017.00,Finland,Croatia,44,-9.00,-29.00,0,1,1
+2017.00,Wales,Georgia,-74,4.72,23.00,1,1,0
+2017.00,Albania,Spain,48,-13.00,-52.00,-3,0,3
+2017.00,Iceland,Turkey,-15,-5.54,11.00,3,3,0
+2017.00,Netherlands,Belarus,-60,12.26,61.00,2,3,1
+2017.00,France,Bulgaria,-46,14.72,36.00,1,1,0
+2017.00,Algeria,Cameroon,14,1.27,7.00,-2,0,2
+2017.00,Honduras,Costa Rica,34,-4.63,0.00,0,1,1
+2017.00,Greece,Cyprus,-42,14.90,39.00,1,2,1
+2017.00,Tunisia,Guinea,-56,-1.45,29.00,3,4,1
+2017.00,Gabon,Morocco,48,-7.00,-12.00,-3,0,3
+2017.00,Zambia,Nigeria,31,-11.31,-5.00,-1,0,1
+2017.00,Burkina Faso,South Africa,-18,-1.09,-13.00,-2,1,3
+2017.00,Ghana,Uganda,-23,10.15,48.00,0,0,0
+2017.00,Romania,Denmark,20,-3.90,-7.00,0,1,1
+2017.00,Congo,Egypt,43,-4.81,-33.00,-1,1,2
+2017.00,Northern Ireland,Norway,-21,-3.54,5.00,-1,0,1
+2017.00,Montenegro,Poland,33,-7.72,-11.00,-2,2,4
+2017.00,Scotland,Slovenia,-31,-3.18,-11.00,0,2,2
+2017.00,Italy,Albania,-36,10.81,41.00,1,1,0
+2017.00,Turkey,Finland,-25,5.54,16.00,0,2,2
+2017.00,Spain,Israel,-91,14.90,46.00,1,1,0
+2017.00,Georgia,Serbia,60,-7.63,-16.00,-1,0,1
+2017.00,Croatia,Ukraine,-12,5.09,14.00,2,2,0
+2017.00,Syria,Australia,36,-0.31,-62.00,-1,1,2
+2017.00,Cyprus,Belgium,83,-23.63,-39.00,-3,0,4
+2017.00,Chile,Brazil,7,-6.45,14.00,-3,0,3
+2017.00,Argentina,Ecuador,-58,10.54,18.00,2,3,1
+2017.00,Belarus,France,72,-14.89,-44.00,-1,1,2
+2017.00,Mexico,Honduras,-44,8.54,13.00,-1,2,3
+2017.00,Faroe Islands,Hungary,45,-11.24,-31.00,-1,0,1
+2017.00,Bulgaria,Luxembourg,-30,3.97,9.00,0,1,1
+2017.00,Sweden,Netherlands,4,-5.65,-32.00,-2,0,2
+2017.00,Costa Rica,Panama,-30,7.27,11.00,-1,1,2
+2017.00,Venezuela,Paraguay,6,-0.72,1.00,1,1,0
+2017.00,Colombia,Peru,5,6.63,16.00,0,1,1
+2017.00,Switzerland,Portugal,2,-4.90,-10.00,-2,0,2
+2017.00,Bolivia,Uruguay,40,-15.18,-32.00,-2,2,4
+2017.00,Greece,Croatia,26,-4.72,7.00,-3,1,4
+2017.00,Switzerland,Northern Ireland,-21,5.90,24.00,1,1,0
+2017.00,Nigeria,Algeria,-17,-3.36,2.00,0,1,1
+2017.00,Australia,Honduras,-19,3.18,43.00,0,0,0
+2017.00,Senegal,South Africa,-44,5.81,-11.00,2,2,0
+2017.00,Italy,Sweden,-3,7.46,14.00,-1,0,1
+2017.00,Mali,Gabon,-23,1.90,11.00,0,0,0
+2017.00,Libya,Tunisia,86,-4.31,-33.00,0,0,0
+2017.00,Cameroon,Zambia,-28,13.40,-4.00,0,2,2
+2017.00,Uganda,Congo,-15,-2.97,-10.00,0,1,1
+2017.00,Egypt,Ghana,-5,-2.36,-5.00,0,1,1
+2017.00,Croatia,Greece,-26,4.72,-7.00,0,0,0
+2017.00,Northern Ireland,Switzerland,21,-5.90,-24.00,0,0,0
+2017.00,Sweden,Italy,3,-7.46,-14.00,0,0,0
+2017.00,South Africa,Senegal,44,-5.81,11.00,-1,1,2
+2017.00,Honduras,Australia,19,-3.18,-43.00,-2,1,3

@@ -163,12 +163,15 @@ for name, model in models:
 	#print(classification_report(Y_validation, predictions))
 	#print(collections.Counter(predictions))
 	# save the model to disk
+	print(model.predict([[4, 3.269999999999996, 1]])[0])
+	print(model.predict([[-4, -3.269999999999996, -1]])[0])
 	filename = name+'Final_fifa_Logmodel9.sav'
 	pickle.dump(model, open(filename, 'wb'))
 
 
 logreg = pickle.load(open('3_CARTFinal_fifa_Logmodel9.sav', 'rb'))
-
+print(logreg.predict([[4, 3.269999999999996, 1]])[0])
+print(logreg.predict([[-4, -3.269999999999996, -1]])[0])
 df = pd.read_csv('Matches.csv')
 #print(dataset2.head())
 
